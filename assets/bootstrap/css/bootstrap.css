@@ -3471,6 +3471,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav {
   padding-left: 8%;
+  padding-right: 8%;
   margin-bottom: 0;
   list-style: none;
 }
@@ -3837,7 +3838,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (min-width: 768px) {
   .navbar-nav {
-    float: left;
     margin: 0;
   }
   .navbar-nav > li {
