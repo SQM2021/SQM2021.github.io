@@ -110,7 +110,7 @@ h3.col-xs-12{
     text-align: center;
 }
 .block-author{
-    color: #D7002E;
+    color: #1f83c3;
 }
 
 .btn-info{
@@ -152,7 +152,7 @@ body {
 }
 
 a {
-    color: #55CBD2;
+    color:whitesmoke;
     text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -232,7 +232,7 @@ address {
 .navbar {
   font-weight: bold;
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   margin-bottom: 0;
 }
 /*
@@ -259,9 +259,9 @@ address {
   padding-top: 0px;
 }
 .side-left{
-  background:#528C7C;
+  background:#1f83c3;
   box-shadow: 3px grey;
-  color: white;
+  color: whitesmoke;
   padding: 30px;
   letter-spacing: .9px;
 }
