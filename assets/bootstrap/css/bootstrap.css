@@ -3472,6 +3472,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav {
   padding-left: 8%;
   padding-right: 8%;
+  width; 100%;
   margin-bottom: 0;
   list-style: none;
 }
