@@ -3470,8 +3470,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-left: -1px;
 }
 .nav {
-  padding-left: 8%;
-  padding-right: 8%;
+  padding-left: 5%;
+  padding-right: 5%;
+  width: 100%;
   margin-bottom: 0;
   list-style: none;
 }
