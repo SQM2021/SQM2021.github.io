@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+
+    {% include head.html %}
+    {% include header.html %}
+    {% include script.html %}
+    <div class="container">   
+        <div class="row">
+          <div class="side-left col-sm-4 col-md-4">
+            <h3 class="lead"> {{ page.categories }} : </h3><hr>
+            <p><a href="/loc" style="color:whitesmoke;">Local Organizing Committee</a></p>
+            <p><a href="/roc" style="color:whitesmoke;">Regional Organizing Committee</a></p>
+            <p><a href="/iac" style="color:whitesmoke;">International Advisory Committee</a></p>
+          </div>
+          <div class="col-sm-8 col-md-8">
+            <h3 class="lead"id="anchor1" style="font-size: 30pt"> {{ page.title }} </h3><hr>
+            <body>
+                {{ content }}
+            </body>
+        </div> 
+        </div>    
+      </div>  
+  
+    {% include footer.html %}
+  </html>
