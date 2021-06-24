@@ -1,5 +1,5 @@
 ---
-layout: banner_style
+layout: banner
 title: "Conference venue"
 permalink: /venue
 categories: general

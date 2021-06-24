@@ -1,6 +1,6 @@
 ---
-layout: banner_style
-title: "Timetabel"
+layout: banner
+title: "Timetable"
 permalink: /timetable
 categories: scientific
 ---

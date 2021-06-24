@@ -50,3 +50,35 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+defaults:
+  # - scope:
+  #     path: ""
+  #     categories: ""
+  #   values:
+  #     category_title: "Others"
+  - scope:
+      path: ""
+      categories: general
+    values:
+      category_title: "General"
+  - scope:
+      path: ""
+      categories: committee
+    values:
+      category_title: "Commitees"
+  - scope:
+      path: ""
+      categories: scientific
+    values:
+      category_title: "Scientific Info"
+  - scope:
+      path: ""
+      categories: travel
+    values:
+      category_title: "Travel Info"
+
+
+head_scripts:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML

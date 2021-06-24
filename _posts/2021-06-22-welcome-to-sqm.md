@@ -1,5 +1,5 @@
 ---
-layout: poster_style
+layout: poster
 title: "Welcome to SQM 2022"
 permalink: "/welcomesqm"
 ---

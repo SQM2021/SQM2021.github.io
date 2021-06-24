@@ -1,0 +1,11 @@
+
+<div class="side-left col-sm-4 col-md-4">
+  <h3 class="lead"> {{include.title}} </h3><hr>
+   {{ site.categories[ include.category ] }}
+  {% for post in site.categories[ include.category ] %}
+    <!-- Link 1 <p><a href= {{post.url}} style="color:whitesmoke;">post.title</a></p> -->
+    {{ post }}
+  {% endfor %}
+</div>
+
+

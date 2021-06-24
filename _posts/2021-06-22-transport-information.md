@@ -1,5 +1,5 @@
 ---
-layout: banner_style
+layout: banner
 title: Transport information
 permalink: /transport
 categories: travel
