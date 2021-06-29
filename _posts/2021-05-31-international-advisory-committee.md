@@ -2,7 +2,7 @@
 layout: banner
 title: "International Advisory Committee"
 permalink: "/iac"
-categories: committee
+categories: Committee
 ---
 Joerg Aichelin
 

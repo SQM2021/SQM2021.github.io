@@ -2,5 +2,5 @@
 layout: banner
 title: "Proceeding"
 permalink: "/proceeding"
-categories: scientific
+categories: Scientific
 ---

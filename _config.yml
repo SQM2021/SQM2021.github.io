@@ -60,22 +60,25 @@ defaults:
   #     category_title: "Others"
   - scope:
       path: ""
-      categories: general
-    values:
-      category_title: "General"
-  - scope:
-      path: ""
-      categories: committee
+      categories: Committee
     values:
       category_title: "Commitees"
+
   - scope:
       path: ""
-      categories: scientific
+      categories: General
+    values:
+      category_title: "General Info"
+
+  - scope:
+      path: ""
+      categories: Scientific
     values:
       category_title: "Scientific Info"
+      
   - scope:
       path: ""
-      categories: travel
+      categories: Travel
     values:
       category_title: "Travel Info"
 

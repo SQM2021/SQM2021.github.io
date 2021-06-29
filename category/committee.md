@@ -1,4 +1,4 @@
 ---
 layout: category
-category: committee
+category: Committee
 ---

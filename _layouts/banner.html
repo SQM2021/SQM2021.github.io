@@ -3,14 +3,9 @@ layout: default
 ---
 <div class="container">  
   <div class="row">
-    {% include sidebar.html title=page.category_title category=page.categories %}
+    {% include sidebar.html %}
     <div class="col-sm-8 col-md-8">
       <h3 class="lead"id="anchor1" style="font-size: 30pt"> {{ page.title }} </h3><hr>
-      Categories : {{ page.categories }} <br>
-      Category Title : {{ page.category_title }}<br>
-      {% assign cat=page.categories %}
-      Post in Category {{ site.categories }} <br>
-      Post in Category {{ cat }}
       {{ content }}
 
     </div>

@@ -226,7 +226,7 @@ address {
 * ==========================================================================
 */
 .active{
-  background:#74B9B9 !important;
+  background:#1f83c3 !important;
   color: white;
 }
 .navbar {
@@ -464,7 +464,7 @@ p.blog-text{
 .services-icon .fa:hover{
     padding: 0 10px 0 10px;
     color: white;
-    background: #1BBD9B;
+    background: #1f83c3;
     border-radius: 3px; 
     transition:.4s;  
 }

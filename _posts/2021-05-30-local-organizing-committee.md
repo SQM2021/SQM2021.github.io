@@ -2,7 +2,7 @@
 layout: banner
 title: "Local Organizing Committee"
 permalink: "/loc"
-categories: committee
+categories: Committee
 ---
 ### Chair
 

@@ -1,11 +1,17 @@
 
 <div class="side-left col-sm-4 col-md-4">
-  <h3 class="lead"> {{include.title}} </h3><hr>
-   {{ site.categories[ include.category ] }}
-  {% for post in site.categories[ include.category ] %}
-    <!-- Link 1 <p><a href= {{post.url}} style="color:whitesmoke;">post.title</a></p> -->
-    {{ post }}
+  {% for cat in site.categories %}
+    {% if page.categories[0] == cat.first %}
+      {% if page.categories[0] == "Committee" %}
+      <h3 class="lead"> {{ cat | first }} </h3><hr>
+      {% else %}
+      <h3 class="lead"> {{ cat | first }} Info </h3><hr>
+      {% endif %}
+      <ul>
+        {% for post in cat[1] %}
+          <li><a href="{{ post.url }}" style="color:whitesmoke;"> {{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
   {% endfor %}
 </div>
-
-
