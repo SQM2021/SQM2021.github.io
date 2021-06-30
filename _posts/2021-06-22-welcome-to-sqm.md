@@ -18,5 +18,3 @@ The scientific issues:
 * Collectivity in small systems
 * The quadraquarks and pentaquarks.
 * Open questions and new developments
-
-
