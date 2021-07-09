@@ -4,65 +4,64 @@ title: "International Advisory Committee"
 permalink: "/iac"
 categories: Committee
 ---
-Joerg Aichelin
+* Joerg Aichelin
 
-Yasuyuki Akiba
+* Yasuyuki Akiba
 
+* Francesco Becattini
 
-Francesco Becattini
+* Marcus Bleicher
 
-Marcus Bleicher
+* Peter Braun-Munzinger
 
-Peter Braun-Munzinger
+* Helen Caines*
 
-Helen Caines*
+* Jean Cleymans
 
-Jean Cleymans
+* Andrea Dainese
 
-Andrea Dainese
+* Domenico Elia
 
-Domenico Elia
+* Laura Fabbietti*
 
-Laura Fabbietti*
+* Marek Gaździcki
 
-Marek Gaździcki
+* Paolo Giubellino
 
-Paolo Giubellino
+* Boris Hippolyte
 
-Boris Hippolyte
+* Sangyong Jeon
 
-Sangyong Jeon
+* Alexander Kalweit
 
-Alexander Kalweit
+* Kangseog Lee
 
-Kangseog Lee
+* Maria Paola Lombardo*
 
-Maria Paola Lombardo*
+* Christina Markert*
 
-Christina Markert*
+* Badangadas Mohanty
 
-Badangadas Mohanty
+* Berndt Müller
 
-Berndt Müller
+* Grazyna Odyniec
 
-Grazyna Odyniec
+* Johann Rafelski
 
-Johann Rafelski
+* Alexander Sorin
 
-Alexander Sorin
+* George Stephans
 
-George Stephans
+* Horst Stöcker
 
-Horst Stöcker
+* Joachim Stroth
 
-Joachim Stroth
+* Orlando Villalobos Baillie
 
-Orlando Villalobos Baillie
+* Fuqiang Wang
 
-Fuqiang Wang
+* Nu Xu
 
-Nu Xu
+* Zhangbu Xu
 
-Zhangbu Xu
-
-Pengfei Zhuang
+* Pengfei Zhuang
