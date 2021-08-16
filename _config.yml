@@ -78,11 +78,6 @@ defaults:
       category: General
       categoryname: "General Information"
   - scope:
-      path: "_pages/scientific-info/"
-    values:
-      category: Scientific
-      categoryname: "Scientific Information"
-  - scope:
       path: "_pages/committees"
     values:
       category: Committee
@@ -103,9 +98,10 @@ defaults:
       category: Travel
       categoryname: "Travel Informations"
   - scope:
-      path: ""
+      path: "_pages/scientific-info/"
     values:
-      categoryname: "Any"
+      category: Scientific
+      categoryname: "Scientific Information"
 
 
 head_scripts:
