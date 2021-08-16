@@ -1,7 +1,6 @@
 ---
 layout: poster
 title: "SQM History"
-permalink: "/history"
 ---
 
 Hereafter a list of previous editions of the Strangeness in Quark Matter conference series:

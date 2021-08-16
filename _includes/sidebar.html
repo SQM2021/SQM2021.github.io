@@ -1,17 +1,20 @@
 
+<style>
+  a{
+    color: white;
+  }
+  a:hover {
+    color: red;
+  }
+</style>
+
 <div class="side-left col-sm-4 col-md-4">
-  {% for cat in site.categories %}
-    {% if page.categories[0] == cat.first %}
-      {% if page.categories[0] == "Committee" %}
-      <h3 class="lead"> {{ cat | first }} </h3><hr>
-      {% else %}
-      <h3 class="lead"> {{ cat | first }} Info </h3><hr>
-      {% endif %}
-      <ul>
-        {% for post in cat[1] %}
-          <li><a href="{{ post.url }}" style="color:whitesmoke;"> {{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
+  <h3 class="lead"> {{ page.categoryname }} </h3><hr>
+  <ul>
+  {% for pp in site.pages %}
+    {% if pp.category == page.category %}
+      <li><a href="{{ pp.url }}"> {{ pp.title }}</a></li>
     {% endif %}
   {% endfor %}
+  </ul>
 </div>

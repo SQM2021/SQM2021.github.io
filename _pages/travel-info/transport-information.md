@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: Transport information
-permalink: /transport
-categories: Travel
 ---
 ### Entering Korea
 ![Airport of Korea](/assets/img/slider/airport.jpg){: width="80%"}

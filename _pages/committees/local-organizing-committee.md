@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: "Local Organizing Committee"
-permalink: "/loc"
-categories: Committee
 ---
 ### Chair
 

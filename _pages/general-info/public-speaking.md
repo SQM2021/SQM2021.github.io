@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: "Public speaking"
-permalink: /public
-categories: General
 ---
 
 ### Difference between sunrise and sunset

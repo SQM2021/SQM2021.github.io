@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: "Manual for presenters"
-permalink: "/presenter"
-categories: Scientific
 ---
 
 ### Speakers

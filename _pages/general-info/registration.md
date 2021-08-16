@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: "Registration"
-permalink: /registration
-categories: General
 ---
 
 Registration will open on **1 December 2021** and will continue through **1 June 2022**: it will be handled by the [CERN Indico system](https://indico.cern.ch). If you don’t have a valid CERN account, you can create a lightweight [here](https://account.cern.ch/account/Externals/RegisterAccount.aspx).
