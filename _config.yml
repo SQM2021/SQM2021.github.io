@@ -98,7 +98,7 @@ defaults:
       category: Travel
       categoryname: "Travel Informations"
   - scope:
-      path: "_pages/scientific-info/"
+      path: "_pages/scientific-info"
     values:
       category: Scientific
       categoryname: "Scientific Information"
