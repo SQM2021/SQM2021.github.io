@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: "Manual for assistants"
-permalink: "/assistants"
-categories: Scientific
 ---
 
 ### Computer Assistant

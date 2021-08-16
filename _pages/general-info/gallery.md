@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: "Gallery"
-permalink: /gallery
-categories: General
 ---
 
 ### First day

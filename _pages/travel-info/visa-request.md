@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: "VISA request"
-permalink: "/visa"
-categories: Travel
 ---
 
 For the detail information about VISA requestments for traveling Korea, visit [https://www.visa.go.kr/main/openMain.do](https://www.visa.go.kr/main/openMain.do)

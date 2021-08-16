@@ -1,9 +1,8 @@
 ---
 layout: banner
 title: "International Advisory Committee"
-permalink: "/iac"
-categories: Committee
 ---
+
 * Joerg Aichelin
 
 * Yasuyuki Akiba

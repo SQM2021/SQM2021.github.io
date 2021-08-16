@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: "Deadlines"
-permalink: /deadlines
-categories: General
 ---
 
 Registration and Student support request opening: **December 1, 2021**

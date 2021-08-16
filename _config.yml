@@ -38,6 +38,13 @@ googleplus_link: http://plus.google.com
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -51,36 +58,54 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# permalink: /:collection/:categories/:title/
+
+include:
+   - _pages
+   - .htaccess
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+
 
 defaults:
-  # - scope:
-  #     path: ""
-  #     categories: ""
-  #   values:
-  #     category_title: "Others"
+  # 1
+  - scope:
+      path: "_pages/general-info"
+    values:
+      category: General
+      categoryname: "General Information"
+  - scope:
+      path: "_pages/scientific-info/"
+    values:
+      category: Scientific
+      categoryname: "Scientific Information"
+  - scope:
+      path: "_pages/committees"
+    values:
+      category: Committee
+      categoryname: "Committee"
+  - scope:
+      path: "_pages/history"
+    values:
+      category: History
+      categoryname: "History"
+  - scope:
+      path: "_pages/sponsors"
+    values:
+      category: Sponsors
+      categoryname: "Sponsors"
+  - scope:
+      path: "_pages/travel-info"
+    values:
+      category: Travel
+      categoryname: "Travel Informations"
   - scope:
       path: ""
-      categories: Committee
     values:
-      category_title: "Commitees"
-
-  - scope:
-      path: ""
-      categories: General
-    values:
-      category_title: "General Info"
-
-  - scope:
-      path: ""
-      categories: Scientific
-    values:
-      category_title: "Scientific Info"
-      
-  - scope:
-      path: ""
-      categories: Travel
-    values:
-      category_title: "Travel Info"
+      categoryname: "Any"
 
 
 head_scripts:

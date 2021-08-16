@@ -1,8 +1,6 @@
 ---
 layout: banner
 title: "About Busan and Haeundae"
-permalink: "/travel"
-categories: Travel
 ---
 
 Busan is the second largest city in Korea. The Korean culture has dominated Busan for thousands of years. Furthermore, it was the capital city during Korean War, so many refugees gathered to avoid war. It would be a chance to crossover a lot of culture, so it births lots of landmarks in Busan. 
