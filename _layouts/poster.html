@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div id="banners"></div>
-<div class="container">   
+<div class="container">
   <div class="row">
     <div class="col-sm-8 col-md-8">
-      <h3 class="lead"id="anchor1" style="font-size:30px"> {{ page.title }} </h3>
+      {% unless page.notitle %} {% if page.title %} <h3 class="lead"id="anchor1" style="font-size:30px"> {{ page.title }} </h3> {% endif %} {% endunless %}
         {{ content }}
     </div> 
   </div>    

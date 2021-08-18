@@ -1,0 +1,18 @@
+---
+layout: poster
+---
+
+<h3 class="lead"id="anchor1" style="font-size: 30pt"> {{ page.short_name }} {% if page.long_name %} {% if page.short_name %} : {% endif %} {% endif %}  {{ page.long_name }} </h3>
+
+<figure>
+  <a href="{{ page.homepage }}" target="_blank">
+  <img src="{{ page.logo | relative_url }}"
+        alt="Logo of {{ page.short_name }}"
+        style="width: 25%">
+  </a>
+  <figcaption>
+    Logo of {% if page.short_name %} {{ page.short_name }} {% else %} {{ page.long_name }} {% endif %}
+  </figcaption>
+</figure>
+
+{{ page.content }}

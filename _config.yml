@@ -65,9 +65,13 @@ include:
    - .htaccess
 
 collections:
+  sponsors:
+    output: true
+    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:collection/:path/
+
 
 
 defaults:
@@ -102,6 +106,12 @@ defaults:
     values:
       category: Scientific
       categoryname: "Scientific Information"
+  - scope:
+      path: "_sponsors"
+    values:
+      notitle: true
+      
+      
 
 
 head_scripts:

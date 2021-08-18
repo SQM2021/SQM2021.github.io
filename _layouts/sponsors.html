@@ -1,0 +1,48 @@
+---
+layout: poster
+notitle: true
+---
+
+<style>
+    img{
+        padding: 10px, 10px, 10px;
+    }
+
+    div.gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;
+    }
+
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+    div.desc {
+        padding: 15px;
+        text-align: center;
+    }
+</style>
+
+<div class="container">
+
+    {{ page.content | markdownify }}
+
+    <br>
+    {% for sponsor in site.sponsors %}
+        <div class="gallery">
+            <a target="_blank" href={{ sponsor.url }}>
+                <img src={{ sponsor.logo }} alt="{% if page.short_name %} {{ page.short_name }} {% else %} {{ page.long_name }} {% endif %}" width="600" height="400" padding="100">
+            </a>
+            <div class="desc"> {% if sponsor.short_name %}<b> {{ sponsor.short_name }}</b> <br> {% endif %} {% unless sponsor.short_name %} <b> {% endunless %} {{sponsor.long_name }} {% unless sponsor.short_name %} </b> {% endunless %} </div>
+        </div>
+    {% endfor %}
+    <br>
+
+</div>
