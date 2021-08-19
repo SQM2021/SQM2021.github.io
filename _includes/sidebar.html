@@ -6,11 +6,14 @@
   .sidebar-link a:hover {
     color: red;
   }
+  .sidebar-link li{
+    list-style: none;
+  }
 </style>
 
 <div class="side-left col-sm-4 col-md-4">
   <h3 class="lead"> {{ page.categoryname }} </h3><hr>
-  <ul>
+  <ul class="sidebar-link">
   {% for pp in site.pages %}
     {% if pp.category == page.category %}
       <li class="sidebar-link"><a href="{{ pp.url }}"> {{ pp.title }}</a></li>
