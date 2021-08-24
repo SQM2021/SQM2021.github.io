@@ -4,30 +4,34 @@ title: "Local Organizing Committee"
 ---
 ### Chair
 
-* Inkwon Yoo, (Pusan)
-* Byungsik Hong, (Korea)
-* Suhoung Lee, (Yonsei)
+* In-Kwon Yoo (Pusan National University<sup>K</sup>)
+* Byungsik Hong (Korea University<sup>K</sup>)
+* Suhoung Lee (Yonsei University<sup>K</sup>)
 
 ### Experiment
 
-* Minjung Kweon, (Inha)
-* Dongho Moon, (Jeonnam)
-* Yongsun Kim, (Sejong)
-* Eun-joo Kim, (Jeonbuk)
-* Youngil Kwon, (Yonsei)
-* Sanghoon Lee, (Pusan)
+* Minjung Kweon (Inha University<sup>K</sup>)
+* Dongho Moon (Jeonnam National University<sup>K</sup>)
+* Yongsun Kim (Sejong University<sup>K</sup>)
+* Eun-joo Kim (Jeonbuk National University<sup>K</sup>)
+* Youngil Kwon (Yonsei University<sup>K</sup>)
+* Sanghoon Lim (Pusan National University<sup>K</sup>)
 
 ### Theory
 
-* Sungtai Cho, (Kangwon)
-* Sangyong Jeon, (McGill)
-* Changhwan Lee, (Pusan)
-* Seungil Nam, (Pukyong)
-* Jinhee Yoon, (Inha)
-* Youngman Kim, (Inst. Basic Science)
+* Sungtai Cho (Kangwon National University<sup>K</sup>)
+* Sangyong Jeon (McGill University<sup>C</sup>)
+* Changhwan Lee (Pusan National University<sup>K</sup>)
+* Seungil Nam (Pukyong National University<sup>K</sup>)
+* Jinhee Yoon (Inha National University<sup>K</sup>)
+* Youngman Kim (Institute of Basic Science<sup>K</sup>)
 
 ### Administration
 
-* Beomgyu Kim, (Pusan)
-* Bonghwi Lim (Pusan)
-* Minjae Isaac Kwon (Pusan)
+* Beomkyu Kim (Pusan National University<sup>K</sup>)
+* Bong-hwi Lim (Pusan National University<sup>K</sup>)
+* Minjae Kwon (Pusan Natioanl University<sup>K</sup>)
+
+
+(K) : Republic of Korea  
+(C) : Canada
