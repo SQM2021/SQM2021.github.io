@@ -59,7 +59,7 @@ After arriving at Incheon airport, there are many ways you can choose.
   * Transfer to ***Metro Line N<sup>o</sup>2*** to **Jangsan Station** and get off at **Haeundae Station**.  (~ 45 min.)
   * Exit to Exit N<sup>o</sup> 3
     * Go straight, direction to beach. You can see *"Paradise Hotel"* when you're right in front of the beach.
-  * Cost: KRW 2,000 (If you don't metro-card, KRW 3,000)
+  * Cost: KRW 2,000 (If you don't have metro-card, KRW 3,000)
   * Time: ~1h 20min. (incl. walking)
 * Bus
   * Take ***Bus N<sup>o</sup> 7002*** at bus stop N<sup>o</sup>2 and get off at **Haeundae Beach.**
