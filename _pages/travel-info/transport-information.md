@@ -52,7 +52,7 @@ After arriving at Incheon airport, there are many ways you can choose.
 ### By Express bus
 
 * You can take limousine bus **from Incheon Airport to Busan** directly.
-  * It has direction to West Bus Terminal<sub>(Sasang)</sub>, Central Bus Terminal<sub>(Nopo)</sub> or Haeundae Bus Terminal.
+  * It has direction to West Bus Terminal<sub>(Sasang;사상)</sub>, Central Bus Terminal<sub>(Nopo;노포)</sub> or Haeundae Bus Terminal.
 * Cost: ~ KRW 50,600
 * Time: 5h. 30min. (depending on traffic)
 
@@ -67,19 +67,19 @@ After arriving at Incheon airport, there are many ways you can choose.
 
 * Metro
   * ***YOU SHOULD HAVE TRANSPORTATION CARD(T-Money, Cash-bee, etc) FOR TRANSFER FEE DISCOUNT.*** [See also.](#tpc)
-  * Take Busan-Gimhae Light Rail Transit to **Sasang**. (~7min.)
-  * Transfer to ***Metro Line N<sup>o</sup>2*** to **Jangsan** (~45min.)
-  * Get off at **Haeundae**.
+  * Take Busan-Gimhae Light Rail Transit to **Sasang<sub>사상</sub>**. (~7min.)
+  * Transfer to ***Metro Line N<sup>o</sup>2*** to **Jangsan<sub>장산</sub>** (~45min.)
+  * Get off at **Haeundae<sub>해운대</sub>**.
   * Exit to Exit N<sup>o</sup> 3
     * Go straight, direction to beach. You can see *"Paradise Hotel"* when you're right in front of the beach.
     * You can find the [last-mile map](#last-mile-map).
   * Cost: KRW 3,000 (KRW 2,000, if you have transportation card)
     * If you don't have card, you should buy ticket 2 times.
-      * One at Airport(Airport to Sasang) (KRW 1,400)
-      * One at Sasang(Sasang to Haeundae). (KRW 1,600)
+      * One at Airport(Airport<sub>공항</sub> to Sasang<sub>사상</sub>) (KRW 1,400)
+      * One at Sasang(Sasang<sub>사상</sub> to Haeundae<sub>해운대</sub>). (KRW 1,600)
   * Time: ~1h 20min. (incl. walking)
 * Bus
-  * Take ***Bus N<sup>o</sup> 7002*** at bus stop N<sup>o</sup>2 and get off at **Haeundae Beach.**
+  * Take ***Bus N<sup>o</sup> 7002*** at bus stop N<sup>o</sup>2 and get off at **Haeundae Beach<sub>해운대 해수욕장</sub>**.
     * You can see *"Paradise Hotel"* in direction of the bus you've gotten off.
     * You can find the [last-mile map](#last-mile-map).
   * Cost: KRW 8,500
@@ -93,9 +93,9 @@ After arriving at Incheon airport, there are many ways you can choose.
 {: #fromStation }
 
 * Metro
-  * Take ***Metro Line N<sup>o</sup>1*** to **Nopo**  (~11min.)
-  * Transfer to ***Metro Line N<sup>o</sup>2*** at **Seomyeon** to **Jangsan**. (~30min.)
-  * Get off at **Haeundae**. Exit to Exit N<sup>o</sup> 3
+  * Take ***Metro Line N<sup>o</sup>1*** to **Nopo<sub>노포</sub>**  (~11min.)
+  * Transfer to ***Metro Line N<sup>o</sup>2*** at **Seomyeon<sub>서면</sub>** to **Jangsan<sub>장산</sub>**. (~30min.)
+  * Get off at **Haeundae<sub>해운대</sub>**. Exit to Exit N<sup>o</sup> 3
     * Go straight, direction to beach. You can see *"Paradise Hotel"* when you're right in front of the beach.
     * You can find the [last-mile map](#last-mile-map).
   * Cost: KRW 1,600 (KRW 1,500, if you have transportation card.)
@@ -114,8 +114,8 @@ After arriving at Incheon airport, there are many ways you can choose.
 {: #fromSasang }
 
 * Metro
-  * Take metro to ***Metro Line N<sup>o</sup>2*** to **Jangsan** (~45min.)
-  * Get off at **Haeundae**.
+  * Take metro to ***Metro Line N<sup>o</sup>2*** to **Jangsan<sub>장산</sub>** (~45min.)
+  * Get off at **Haeundae<sub>해운대</sub>**.
   * Exit to Exit N<sup>o</sup> 3.
     * Go straight, direction to beach. You can see *"Paradise Hotel"* when you're right in front of the beach.
     * You can find the [last-mile map](#last-mile-map).
@@ -132,7 +132,7 @@ After arriving at Incheon airport, there are many ways you can choose.
   * Take metro to ***Metro Line N<sup>o</sup>1*** to **Dadaepo Beach<sub>다대포해수욕장</sub>** or **Shinpyeong<sub>신평</sub>** (~21min.)
   * Transfer to ***Metro Line N<sup>o</sup>3*** to **Suyeong<sub>수영</sub>** at **Yeonsan<sub>연산</sub>** (~9min.)
   * Transfer to ***Metro Line N<sup>o</sup>2*** to **Jangsan<sub>장산</sub>** at **Suyeong<sub>수영</sub>** (~10min.)
-  * Get off at **Haeundae**.
+  * Get off at **Haeundae<sub>해운대</sub>**.
   * Exit to Exit N<sup>o</sup> 3
     * Go straight, direction to beach. You can see *"Paradise Hotel"* when you're right in front of the beach.
     * You can find the [last-mile map](#last-mile-map).
@@ -163,7 +163,7 @@ Please see the [last-mile map](#last-mile-map).
 You can get Entry Kit, which contains
 
 * Last mile map
-* Transfer diagram how to get Conference Venue from Busan-Gimhae International Airport and Busan Station
+* Transfer diagram on how to get to conference venue from Busan-Gimhae International Airport and Busan Station
 * Useful sentences to communicate with pedestrians, taxi drivers.
 
 [File(pdf, 2.6MB)](/assets/files/entrykit-sqm2022.pdf){:target="_blank"}
@@ -171,11 +171,9 @@ You can get Entry Kit, which contains
 ### Transportation Card (T-Money, Cash-bee)
 {: #tpc }
 
-The T-Money and Cash-bee are most popular transportation card service in Republic of Korea.  
+The T-Money and Cash-bee are most popular transportation card service in Republic of Korea.
 
-
-
-* You can use same transportation card almost almost all local bus and metro in Republic of Korea
+* You can use same transportation card for almost all local bus and metro in Republic of Korea
 * You can pay almost all convenience stores. (GS25, CU, 7-Eleven, Ministop, E-mart24 etc.)
 * Public transport discount
   * When take bus, you can have fee discount of KRW 100~ each time.

@@ -23,7 +23,7 @@ title: "Local Organizing Committee"
 * Sangyong Jeon (McGill University<sup>C</sup>)
 * Changhwan Lee (Pusan National University<sup>K</sup>)
 * Seungil Nam (Pukyong National University<sup>K</sup>)
-* Jinhee Yoon (Inha National University<sup>K</sup>)
+* Jinhee Yoon (Inha University<sup>K</sup>)
 * Youngman Kim (Institute of Basic Science<sup>K</sup>)
 
 ### Administration

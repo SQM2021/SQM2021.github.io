@@ -1,25 +1,33 @@
 ---
 layout: banner
-title: "Deadlines"
+title: "Important Dates"
 ---
 
-Registration and Student support request opening: **December 1, 2021**
-
-Abstract submission opening: **December 1, 2021**
-
-Fee payment opening: **February 1, 2022**
-
-Student support request deadline: **February 24, 2022** (extended, was February 15)
-
-Abstract submission deadline: **February 24, 2022** (extended, was February 15)
-
-Abstract and support acceptance notification: **March 15, 2022**
-
-Hotel reservation deadline (pre-booked options): **March 31, 2022**
-
-Early registration deadline: **April 1, 2022**
-
-Registration deadline: **June 1, 2022**
-
-Conference dates: **June 10-15, 2022**
-
+<style>
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+th, td {
+  padding: 5px;
+  padding-right: 10px;
+  min-width: 8em;
+}
+</style>
+| Name                                                 | Date           | Note         |
+|:-----------------------------------------------------|:---------------|:-------------|
+| 1st Announcement                                     | 15 Nov 2021    |              |
+| 2nd Announcement                                     | 15 Jan 2022    |              |
+| Registration and student support request opening     | 1  Feb 2022    |              |
+| Abstract submission opening                          | 1  Feb 2022    |              |
+| Fee payment opening                                  | 1  Feb 2022    |              |
+| **Student support request deadline**                 | 28 Mar 2022    |              |
+| **Abstract submission deadline**                     | 28 Mar 2022    |              |
+| **Early registration deadline**                      | 15 Apr 2022    |              |
+| Abstract and support acceptance notification         | 15 Apr 2022    |              |
+| Final program comfirmation                           | 31 Apr 2022    |              |
+| **Hotel reservation deadline (special offer)**       | 10 May 2022    |              |
+| **Registration deadline**                            | 20 May 2022    |              |
+| Final Announcement                                   | 10 Jun 2022    |              |
+| ***SQM2022 Conference dates***                       | 13-18 Jun 2022 |              |
+ 
