@@ -16,7 +16,6 @@ title: "International Advisory Committee"
 | Name                      | Affiliation                                                          | Country      |
 |:--------------------------|:---------------------------------------------------------------------|              |
 | Joerg Aichelin            | SUBATECH Nantes                                                      | France       |
-| Yasuyuki Akiba            | RIKEN-RBRC                                                           | Japan        |
 | Federico Antinori         | INFN Padova                                                          | Italy        |
 |                           | CERN                                                                 | Switzerland  |
 | Francesco Becattini       | University of Firenze                                                | Italy        |
@@ -28,8 +27,6 @@ title: "International Advisory Committee"
 | Helen Caines              | Yale University                                                      | USA          |
 | Andrea Dainese            | INFN Padova                                                          | Italy        |
 | Xin Dong                  | LBNL                                                                 | USA          |
-| Hannah Elfner             | GSI                                                                  | Deutschland  |
-|                           | FIAS(Frankfurt Institute for Advanced Studies)                       | Deutschland  |
 | Domenico Elia             | INFN Bari                                                            | Italy        |
 | Laura Fabbietti           | Technical University of Munich                                       | Deutschland  |
 | Wojtek Florkowski         | Krakow University                                                    | Poland       |
@@ -43,31 +40,25 @@ title: "International Advisory Committee"
 | Mei Huang                 | GUCAS(University of Chinese Academy of Sciences)                     | China        |
 | Sangyong Jeon             | McGill University                                                    | Canada       |
 | Alexander Kalweit         | CERN Geneva                                                          | Switzerland  |
-| Adam Kiesel               | Warsaw University of Technology                                      | Poland       |
 | Kangseog Lee              | Chonnam National University                                          | Korea        |
 | Yen-Jie Lee               | MIT Cambridge                                                        | USA          |
 | Maria Paola Lombardo      | INFN Firenze                                                         | Italy        |
 | Christina Markert         | University of Texas at Austin                                        | USA          |
-| Badangadas Mohanty        | NISER (National Institute of Science, Education and Research)        | India        |
 | Azwinndini Muronga        | Nelson-Mandela University                                            | South Africa |
 | Berndt Müller             | BNL                                                                  | USA          |
 |                           | Duke University                                                      | USA          |
-| Jacquelyn Noronha-Hostler | UIUC (University of Illinois Urbana-Champaign)                       | USA          |
 | Grazyna Odyniec           | LBNL                                                                 | USA          |
 | Dennis Perepelitsa        | Colorado University                                                  | USA          |
 | Johann Rafelski           | University of Arizona                                                | USA          |
 | Claudia Ratti             | Houston University                                                   | USA          |
 | Lijuan Ruan               | BNL                                                                  | USA          |
-| Laura Sagunski            | Goethe University Frankfurt                                          | Deutschland  |
 | Chihiro Sasaki            | Wroclaw University                                                   | Poland       |
 | Cesar Da Silva            | Los Alamos National Laboratory                                       | USA          |
 | Alexander Sorin           | JINR Dubna                                                           | Russia       |
-| George Stephans           | MIT Cambridge                                                        | USA          |
 | Horst Stöcker             | FIAS(Frankfurt Institute for Advanced Studies)                       | Deutschland  |
 |                           | Goethe University Frankfurt                                          | Deutschland  |
 |                           | GSI Darmstadt                                                        | Deutschland  |
 | Joachim Stroth            | Goethe University Frankfurt                                          | Deutschland  |
-| Orlando Villalobos        | Baillie University of Birmingham                                     | UK           |
 | Fuqiang Wang              | Purdue University                                                    | USA          |
 | Nu Xu                     | CCNU (Central China Normal University)                               | China        |
 |                           | LBNL                                                                 | USA          |
