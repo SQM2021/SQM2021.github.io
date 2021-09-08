@@ -2,36 +2,41 @@
 layout: banner
 title: "Local Organizing Committee"
 ---
-### Chair
 
-* In-Kwon Yoo (Pusan National University<sup>K</sup>)
-* Byungsik Hong (Korea University<sup>K</sup>)
-* Suhoung Lee (Yonsei University<sup>K</sup>)
+<style>
+    /* tr:first-child { font-weight: bold } */
+    td:first-child { font-weight: bold }
+    th, td {
+        padding: 3px;
+        padding-right: 5px;
+        min-width: 8em;
+    }
+</style>
 
-### Experiment
-
-* Minjung Kweon (Inha University<sup>K</sup>)
-* Dongho Moon (Jeonnam National University<sup>K</sup>)
-* Yongsun Kim (Sejong University<sup>K</sup>)
-* Eun-joo Kim (Jeonbuk National University<sup>K</sup>)
-* Youngil Kwon (Yonsei University<sup>K</sup>)
-* Sanghoon Lim (Pusan National University<sup>K</sup>)
-
-### Theory
-
-* Sungtai Cho (Kangwon National University<sup>K</sup>)
-* Sangyong Jeon (McGill University<sup>C</sup>)
-* Changhwan Lee (Pusan National University<sup>K</sup>)
-* Seungil Nam (Pukyong National University<sup>K</sup>)
-* Jinhee Yoon (Inha University<sup>K</sup>)
-* Youngman Kim (Institute of Basic Science<sup>K</sup>)
-
-### Administration
-
-* Beomkyu Kim (Pusan National University<sup>K</sup>)
-* Bong-hwi Lim (Pusan National University<sup>K</sup>)
-* Minjae Kwon (Pusan Natioanl University<sup>K</sup>)
-
-
-(K) : Republic of Korea  
-(C) : Canada
+| Name                      | Affiliation                                                          | Country      |
+|:--------------------------|:---------------------------------------------------------------------|              |
+| Chair                     |                                                                      |              |
+| In-Kwon Yoo               | Pusan National University                                            | Busan        |
+| Byungsik Hong             | Korea University                                                     | Seoul        |
+| Suhoung Lee               | Yonsei University                                                    | Seoul        |
+| Francesco Becattini       | University of Firenze                                                | Italy        |
+|                           |                                                                      |              |
+| Experiment                |                                                                      |              |
+| Minjung Kweon             | Inha University                                                      | Incheon      |
+| Dongho Moon               | Jeonnam National University                                          | Gwangju      |
+| Yongsun Kim               | Sejong University                                                    | Seoul        |
+| Eun-joo Kim               | Jeonbuk National University                                          | Jeonju       |
+| Sanghoon Lim              | Pusan National University                                            | Busan        |
+|                           |                                                                      |              |
+| Theory                    |                                                                      |              |
+| Sungtai Cho               | Kangwon National University                                          | Chuncheon    |
+| Sangyong Jeon             | McGill University                                                    | Canada       |
+| Changhwan Lee             | Pusan National University                                            | Busan        |
+| Seungil Nam               | Pukyong National University                                          | Busan        |
+| Jinhee Yoon               | Inha University                                                      | Incheon      |
+| Youngman Kim              | Institute of Basic Science                                           | Daejeon      |
+|                           |                                                                      |              |
+| Administration            |                                                                      |              |
+| Beomkyu Kim               | Sungkyunkwan University                                              | Seoul        |
+| Bong-hwi Lim              | Pusan National University                                            | Busan        |
+| Minjae Kwon               | Pusan National University                                            | Busan        |

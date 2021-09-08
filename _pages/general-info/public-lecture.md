@@ -1,6 +1,6 @@
 ---
 layout: banner
-title: "Public speaking"
+title: "Public lecture"
 ---
 
 <style>
@@ -31,5 +31,3 @@ The talk will be presented with English, and radio simultaneous interpretation s
 | 강연자 | **Jane Doe**, Various University |
 | 제목  | |
 | 일시  | 2022년 6월 14일 화요일 |
-
-강연은 영어로 진행되나, 한국어 동시통역이 제공됩니다.
