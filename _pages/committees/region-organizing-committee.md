@@ -1,6 +1,7 @@
 ---
 layout: banner
-title: "Region Organizing Committee"
+title: "Regional Organizing Committee"
+order: 2
 ---
 
 <style>

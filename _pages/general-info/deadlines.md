@@ -1,6 +1,7 @@
 ---
 layout: banner
 title: "Important Dates"
+order: 1
 ---
 
 <style>

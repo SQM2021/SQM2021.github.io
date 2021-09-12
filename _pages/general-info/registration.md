@@ -1,6 +1,7 @@
 ---
 layout: banner
 title: "Registration"
+order: 2
 ---
 
 <style>

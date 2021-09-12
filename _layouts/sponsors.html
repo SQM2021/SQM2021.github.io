@@ -4,30 +4,45 @@ notitle: true
 ---
 
 <style>
-    img{
-        padding: 10px, 10px, 10px;
+    body {
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-family: sans-serif;
     }
 
-    div.gallery {
-        margin: 5px;
-        border: 1px solid #ccc;
-        float: left;
-        width: 180px;
+    .grid-container {
+        columns: 5 200px;
+        column-gap: 1.5rem;
+        width: 90%;
+        margin: 0 auto;
     }
 
-    div.gallery:hover {
-        border: 1px solid #777;
-    }
-
-    div.gallery img {
+    .grid-container > div {
+        width: 150px;
+        margin: 0 1.5rem 1.5rem 0;
+        display: inline-block;
         width: 100%;
-        height: auto;
+        border: solid 2px black;
+        padding: 5px;
+        box-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+        border-radius: 5px;
+        transition: all .25s ease-in-out;
     }
 
-    div.desc {
-        padding: 15px;
-        text-align: center;
+    .grid-container img {
+        width: 100%;
+        border-radius: 5px;
+        transition: all .25s ease-in-out;
     }
+
+    .grid-container p {
+        margin: 5px 0;
+        padding: 0;
+        text-align: center;
+        font-style: italic;
+    }
+      
 </style>
 
 <div class="container">
@@ -35,14 +50,16 @@ notitle: true
     {{ page.content | markdownify }}
 
     <br>
+    <div class="grid-container">
     {% for sponsor in site.sponsors %}
-        <div class="gallery">
+        <div>
             <a target="_blank" href={{ sponsor.url }}>
-                <img src={{ sponsor.logo }} alt="{% if page.short_name %} {{ page.short_name }} {% else %} {{ page.long_name }} {% endif %}" width="600" height="400" padding="100">
+                <img class='grid-item' src={{ sponsor.logo }} alt="{% if sponsor.short_name %} {{ sponsor.short_name }} {% else %} {{ sponsor.long_name }} {% endif %}" >
             </a>
-            <div class="desc"> {% if sponsor.short_name %}<b> {{ sponsor.short_name }}</b> <br> {% endif %} {% unless sponsor.short_name %} <b> {% endunless %} {{sponsor.long_name }} {% unless sponsor.short_name %} </b> {% endunless %} </div>
+            <div> {% if sponsor.short_name %}<b> {{ sponsor.short_name }}</b> <br> {% endif %} {% unless sponsor.short_name %} <b> {% endunless %} {{sponsor.long_name }} {% unless sponsor.short_name %} </b> {% endunless %} </div>
         </div>
     {% endfor %}
+    </div>
     <br>
 
 </div>

@@ -1,6 +1,7 @@
 ---
 layout: banner
 title: "International Advisory Committee"
+order: 1
 ---
 
 <style>
@@ -64,3 +65,13 @@ title: "International Advisory Committee"
 |                           | LBNL                                                                 | USA          |
 | Zhangbu Xu                | BNL                                                                  | USA          |
 | Pengfei Zhuang            | Tsinghua University                                                  | China        |
+
+<!-- | Yasuyuki Akiba            | RIKEN-RBRC                                                           | Japan        | -->
+<!-- | Hannah Elfner             | GSI                                                                  | Deutschland  | -->
+<!-- |                           | FIAS(Frankfurt Institute for Advanced Studies)                       | Deutschland  | -->
+<!-- | Adam Kiesel               | Warsaw University of Technology                                      | Poland       | -->
+<!-- | Badangadas Mohanty        | NISER (National Institute of Science, Education and Research)        | India        | -->
+<!-- | Jacquelyn Noronha-Hostler | UIUC (University of Illinois Urbana-Champaign)                       | USA          | -->
+<!-- | Laura Sagunski            | Goethe University Frankfurt                                          | Deutschland  | -->
+<!-- | George Stephans           | MIT Cambridge                                                        | USA          | -->
+<!-- | Orlando Villalobos        | Baillie University of Birmingham                                     | UK           | -->

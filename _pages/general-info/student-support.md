@@ -1,6 +1,7 @@
 ---
 layout: banner
 title: "Student support"
+order: 7
 ---
 
 It is a very important for yong researchers to participate actively in Strangeness in Quark Matter conferences. 

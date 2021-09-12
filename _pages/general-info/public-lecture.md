@@ -1,6 +1,7 @@
 ---
 layout: banner
 title: "Public lecture"
+order: 6
 ---
 
 <style>

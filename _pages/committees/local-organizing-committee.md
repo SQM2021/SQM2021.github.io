@@ -1,6 +1,7 @@
 ---
 layout: banner
 title: "Local Organizing Committee"
+order: 3
 ---
 
 <style>
@@ -13,22 +14,22 @@ title: "Local Organizing Committee"
     }
 </style>
 
-| Name                      | Affiliation                                                          | Country      |
-|:--------------------------|:---------------------------------------------------------------------|              |
-| Chair                     |                                                                      |              |
+| Name                      | Affiliation                                                          | City / Country |
+|:--------------------------|:---------------------------------------------------------------------|--------------|
+| *Chair*                   |                                                                      |              |
 | In-Kwon Yoo               | Pusan National University                                            | Busan        |
 | Byungsik Hong             | Korea University                                                     | Seoul        |
 | Suhoung Lee               | Yonsei University                                                    | Seoul        |
 | Francesco Becattini       | University of Firenze                                                | Italy        |
 |                           |                                                                      |              |
-| Experiment                |                                                                      |              |
+| *Experiment*              |                                                                      |              |
 | Minjung Kweon             | Inha University                                                      | Incheon      |
 | Dongho Moon               | Jeonnam National University                                          | Gwangju      |
 | Yongsun Kim               | Sejong University                                                    | Seoul        |
 | Eun-joo Kim               | Jeonbuk National University                                          | Jeonju       |
 | Sanghoon Lim              | Pusan National University                                            | Busan        |
 |                           |                                                                      |              |
-| Theory                    |                                                                      |              |
+| *Theory*                  |                                                                      |              |
 | Sungtai Cho               | Kangwon National University                                          | Chuncheon    |
 | Sangyong Jeon             | McGill University                                                    | Canada       |
 | Changhwan Lee             | Pusan National University                                            | Busan        |
@@ -36,7 +37,7 @@ title: "Local Organizing Committee"
 | Jinhee Yoon               | Inha University                                                      | Incheon      |
 | Youngman Kim              | Institute of Basic Science                                           | Daejeon      |
 |                           |                                                                      |              |
-| Administration            |                                                                      |              |
+| *Administration*          |                                                                      |              |
 | Beomkyu Kim               | Sungkyunkwan University                                              | Seoul        |
 | Bong-hwi Lim              | Pusan National University                                            | Busan        |
 | Minjae Kwon               | Pusan National University                                            | Busan        |

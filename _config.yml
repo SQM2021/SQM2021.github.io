@@ -92,9 +92,15 @@ collections:
 defaults:
   # 1
   - scope:
+      path: ""
+    values:
+      order: 99
+      category: None
+      categoryname: ETC
+  - scope:
       path: "_pages/general-info"
     values:
-      category: General
+      categories: General
       categoryname: "General Information"
   - scope:
       path: "_pages/committees"
