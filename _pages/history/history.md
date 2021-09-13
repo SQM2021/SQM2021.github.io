@@ -5,7 +5,7 @@ title: "SQM History"
 
 Hereafter a list of previous editions of the Strangeness in Quark Matter conference series:
 
-* [(Online) SQM 2021](https://indico.cern.ch/event/985652/)
+* [SQM 2021 New York, USA (Online)](https://indico.cern.ch/event/985652/)
 * [SQM 2019 Bari, Italy](https://indico.cern.ch/event/755366)
 * [SQM 2017 Utrecht, The Netherlands](https://indico.cern.ch/event/576735/)
 * [SQM 2016 Berkeley, USA](https://indico.cern.ch/event/403913)
