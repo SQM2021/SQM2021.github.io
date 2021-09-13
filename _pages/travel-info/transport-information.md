@@ -19,7 +19,7 @@ And to use Busan-Gimhae airport, choose way 3.
 * Way 3 : Your country - Flight - Busan-Gimhae Airport - ...
   
 ------
-## Entering Busan (from Incheon Airport)
+## Transports in Busan (from Incheon Airport)
 
 ![Transports in Busan](/assets/img/slider/busanmap.png){: width="80%"}
 
