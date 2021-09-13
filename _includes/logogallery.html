@@ -3,27 +3,53 @@
         width: 100%;
     }
     .logo-post > div{
-        width: 40%;
+        width: 100%;
         display: inline-block;
     }
-    .logo-post > div > img{
+    .logo-post > div > div{
+        width: 50%;
+        max-height: 300px;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .logo-post > div > div > img{
         width: 100%;
         
     }
+
+    .logo-table img{
+        width: 100%;
+    }
+    .logo-table > tr{
+        width: 100%;
+    }
+    
+    .logo-table > tr > td{
+        width: 50%;
+    }
 </style>
 
-<div class="logo-post">
-<div>
-<img src="/assets/files/sqm2022-logo/jpg/SQM2022-Logo_type1.jpg"><br>
-Type 1
-</div><div>
-<img src="/assets/files/sqm2022-logo/jpg/SQM2022-Logo_type2.jpg"><br>
-Type 2
-</div><div>
-<img src="/assets/files/sqm2022-logo/jpg/SQM2022-Logo_type3.jpg"><br>
-Type 3
-</div><div>
-<img src="/assets/files/sqm2022-logo/jpg/SQM2022-Logo_type4.jpg"><br>
-Type 4
-</div>
-</div>
+<table>
+    <tbody class="logo-table">
+        <tr>
+            <td><img src="/assets/files/sqm2022-logo/jpg/SQM2022-Logo_type1.jpg"></td>
+            <td><img src="/assets/files/sqm2022-logo/jpg/SQM2022-Logo_type2.jpg"></td> 
+        </tr>
+        <tr>
+            <td>Type 1</td>
+            <td>Type 2</td> 
+        </tr>
+        <tr>
+            <td><br></td>
+            <td><br></td> 
+        </tr>
+        <tr>
+            <td><img src="/assets/files/sqm2022-logo/jpg/SQM2022-Logo_type3.jpg"></td>
+            <td><img src="/assets/files/sqm2022-logo/jpg/SQM2022-Logo_type4.jpg"></td> 
+        </tr>
+        <tr>
+            <td>Type 3</td>
+            <td>Type 4</td> 
+        </tr>
+    </tbody>
+</table>
