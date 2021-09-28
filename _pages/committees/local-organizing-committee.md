@@ -5,7 +5,6 @@ order: 3
 ---
 
 <style>
-    /* tr:first-child { font-weight: bold } */
     td:first-child { font-weight: bold }
     th, td {
         padding: 3px;
@@ -20,7 +19,6 @@ order: 3
 | In-Kwon Yoo               | Pusan National University                                            | Busan        |
 | Byungsik Hong             | Korea University                                                     | Seoul        |
 | Suhoung Lee               | Yonsei University                                                    | Seoul        |
-| Francesco Becattini       | University of Firenze                                                | Italy        |
 |                           |                                                                      |              |
 | *Experiment*              |                                                                      |              |
 | Minjung Kweon             | Inha University                                                      | Incheon      |

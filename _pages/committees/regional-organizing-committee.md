@@ -5,7 +5,6 @@ order: 2
 ---
 
 <style>
-    /* tr:first-child { font-weight: bold } */
     td:first-child { font-weight: bold }
     th, td {
         padding: 3px;
