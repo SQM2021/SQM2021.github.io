@@ -1,10 +1,7 @@
 ---
 layout: default
-permalink: /contact
 published: true
 ---
-<!-- Main Container -->
-
 <div class="container-fluid-kamn">
   <div class="row">
     <div class="container">
@@ -18,5 +15,3 @@ published: true
     </div>
   </div>
 </div>  
-    
-<!--End Main Container -->

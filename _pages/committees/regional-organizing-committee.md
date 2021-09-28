@@ -26,7 +26,7 @@ order: 2
 | Bedanga Mohanty           | NISER, Bhubaneswar                                                   | India   |
 | Subrat Pal                | Tata Institute of Fundamental Research, Mumbai                       | India   |
 | Victor Roy                | NISER, Bhubaneswar                                                   | India   |
-| Kenta Shigaki	            | Hiroshima University                                                 | Japan   |
+| Kenta Shigaki             | Hiroshima University                                                 | Japan   |
 | Qun Wang                  | University of Science and Technology of China                        | China   |
 | Yaping Wang               | CCNU                                                                 | China   |
 | Yifei Zhang               | University of Science and Technology of China                        | China   |

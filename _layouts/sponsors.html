@@ -53,7 +53,7 @@ notitle: true
     <div class="grid-container">
     {% for sponsor in site.sponsors %}
         <div>
-            <a target="_blank" href={{ sponsor.url }}>
+            <a target="_blank" href={{ sponsor.homepage }}>
                 <img class='grid-item' src={{ sponsor.logo }} alt="{% if sponsor.short_name %} {{ sponsor.short_name }} {% else %} {{ sponsor.long_name }} {% endif %}" >
             </a>
             <div> {% if sponsor.short_name %}<b> {{ sponsor.short_name }}</b> <br> {% endif %} {% unless sponsor.short_name %} <b> {% endunless %} {{sponsor.long_name }} {% unless sponsor.short_name %} </b> {% endunless %} </div>
