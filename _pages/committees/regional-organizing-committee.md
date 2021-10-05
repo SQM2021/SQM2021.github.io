@@ -13,7 +13,6 @@ order: 2
     }
 </style>
 
-| Name                      | Affiliation                                                          | Country |
 |:--------------------------|:---------------------------------------------------------------------|---------|
 | Sadhana Dash              | Indian Institute of Technology Bombay, Mumbai                        | India   |
 | Heng-Tong Ding            | CCNU                                                                 | China   |
