@@ -22,9 +22,11 @@ order: 3
 |                           |                              |                |
 | *Experiment*              |                              |                |
 | MinJung Kweon             | Inha University              | Incheon        |
+| Inkyu Park                | University of Seoul          | Seoul          |
 | Dong Ho Moon              | Jeonnam National University  | Gwangju        |
 | Yongsun Kim               | Sejong University            | Seoul          |
-| Eun-joo Kim               | Jeonbuk National University  | Jeonju         |
+| Eun-Joo Kim               | Jeonbuk National University  | Jeonju         |
+| Youngil Kwon              | Yonsei University            | Seoul          |
 | Sanghoon Lim              | Pusan National University    | Busan          |
 |                           |                              |                |
 | *Theory*                  |                              |                |
@@ -32,7 +34,7 @@ order: 3
 | Sangyong Jeon             | McGill University            | Canada         |
 | Chang-Hwan Lee            | Pusan National University    | Busan          |
 | Seung-il Nam              | Pukyong National University  | Busan          |
-| Jin-hee Yoon              | Inha University              | Incheon        |
+| Jin-Hee Yoon              | Inha University              | Incheon        |
 | Youngman Kim              | Institute of Basic Science   | Daejeon        |
 |                           |                              |                |
 | *Administration*          |                              |                |
