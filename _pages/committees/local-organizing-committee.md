@@ -25,7 +25,7 @@ order: 3
 | Inkyu Park                | University of Seoul          | Seoul          |
 | Dong Ho Moon              | Jeonnam National University  | Gwangju        |
 | Yongsun Kim               | Sejong University            | Seoul          |
-| Eun-Joo Kim               | Jeonbuk National University  | Jeonju         |
+| Eun Joo Kim               | Jeonbuk National University  | Jeonju         |
 | Youngil Kwon              | Yonsei University            | Seoul          |
 | Sanghoon Lim              | Pusan National University    | Busan          |
 |                           |                              |                |
