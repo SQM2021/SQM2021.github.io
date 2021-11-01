@@ -3,6 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 _site
+_site-build
 
 Gemfile.lock
 .DS_Store

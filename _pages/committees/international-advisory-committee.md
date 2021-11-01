@@ -13,28 +13,27 @@ order: 1
     }
 </style>
 
-| Name                      | Affiliation                                                          | Country      |
-|:--------------------------|:---------------------------------------------------------------------|              |
+|:--------------------------|:---------------------------------------------------------------------|--------------|
 | Joerg Aichelin            | SUBATECH Nantes                                                      | France       |
 | Federico Antinori         | INFN Padova                                                          | Italy        |
 |                           | CERN                                                                 | Switzerland  |
 | Francesco Becattini       | University of Firenze                                                | Italy        |
 |                           | INFN Firenze                                                         | Italy        |
-| Marcus Bleicher           | HFHF                                                                 | Deutschland  |
-|                           | Goethe University Frankfurt                                          | Deutschland  |
-| Peter Braun-Munzinger     | EMMI, GSI                                                            | Deutschland  |
-|                           | University of Heidelberg                                             | Deutschland  |
+| Marcus Bleicher           | HFHF                                                                 | Germany      |
+|                           | Goethe University Frankfurt                                          | Germany      |
+| Peter Braun-Munzinger     | EMMI, GSI                                                            | Germany      |
+|                           | University of Heidelberg                                             | Germany      |
 | Helen Caines              | Yale University                                                      | USA          |
 | Andrea Dainese            | INFN Padova                                                          | Italy        |
 | Xin Dong                  | LBNL                                                                 | USA          |
 | Domenico Elia             | INFN Bari                                                            | Italy        |
-| Laura Fabbietti           | Technical University of Munich                                       | Deutschland  |
+| Laura Fabbietti           | Technical University of Munich                                       | Germany      |
 | Wojtek Florkowski         | Krakow University                                                    | Poland       |
-| Tetyana Galatyuk          | GSI                                                                  | Deutschland  |
+| Tetyana Galatyuk          | GSI                                                                  | Germany      |
 | Marek Gaździcki           | Jan Kochanowski University of Kielce                                 | Poland       |
-|                           | Goethe University Frankfurt                                          | Deutschland  |
+|                           | Goethe University Frankfurt                                          | Germany      |
 | Paolo Giubellino          | INFN Torino                                                          | Italy        |
-|                           | GSI, FAIR Darmstadt                                                  | Deutschland  |
+|                           | GSI, FAIR Darmstadt                                                  | Germany      |
 | Boris Hippolyte           | University of Strasbourg                                             | France       |
 | Huan Z. Huang             | UCLA(University of California, Los Angeles)                          | USA          |
 | Mei Huang                 | GUCAS(University of Chinese Academy of Sciences)                     | China        |
@@ -55,10 +54,10 @@ order: 1
 | Chihiro Sasaki            | Wroclaw University                                                   | Poland       |
 | Cesar Da Silva            | Los Alamos National Laboratory                                       | USA          |
 | Alexander Sorin           | JINR Dubna                                                           | Russia       |
-| Horst Stöcker             | FIAS(Frankfurt Institute for Advanced Studies)                       | Deutschland  |
-|                           | Goethe University Frankfurt                                          | Deutschland  |
-|                           | GSI Darmstadt                                                        | Deutschland  |
-| Joachim Stroth            | Goethe University Frankfurt                                          | Deutschland  |
+| Horst Stöcker             | FIAS(Frankfurt Institute for Advanced Studies)                       | Germany      |
+|                           | Goethe University Frankfurt                                          | Germany      |
+|                           | GSI Darmstadt                                                        | Germany      |
+| Joachim Stroth            | Goethe University Frankfurt                                          | Germany      |
 | Fuqiang Wang              | Purdue University                                                    | USA          |
 | Nu Xu                     | CCNU (Central China Normal University)                               | China        |
 |                           | LBNL                                                                 | USA          |
@@ -66,11 +65,11 @@ order: 1
 | Pengfei Zhuang            | Tsinghua University                                                  | China        |
 
 <!-- | Yasuyuki Akiba            | RIKEN-RBRC                                                           | Japan        | -->
-<!-- | Hannah Elfner             | GSI                                                                  | Deutschland  | -->
-<!-- |                           | FIAS(Frankfurt Institute for Advanced Studies)                       | Deutschland  | -->
+<!-- | Hannah Elfner             | GSI                                                                  | Germany      | -->
+<!-- |                           | FIAS(Frankfurt Institute for Advanced Studies)                       | Germany      | -->
 <!-- | Adam Kiesel               | Warsaw University of Technology                                      | Poland       | -->
 <!-- | Badangadas Mohanty        | NISER (National Institute of Science, Education and Research)        | India        | -->
 <!-- | Jacquelyn Noronha-Hostler | UIUC (University of Illinois Urbana-Champaign)                       | USA          | -->
-<!-- | Laura Sagunski            | Goethe University Frankfurt                                          | Deutschland  | -->
+<!-- | Laura Sagunski            | Goethe University Frankfurt                                          | Germany      | -->
 <!-- | George Stephans           | MIT Cambridge                                                        | USA          | -->
 <!-- | Orlando Villalobos        | Baillie University of Birmingham                                     | UK           | -->

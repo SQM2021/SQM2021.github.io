@@ -18,7 +18,7 @@ email: yongjun.choi@cern.ch
 description: > # this means to ignore newlines until "baseurl:"
   The International Conference on Strangeness in Quark Matter (SQM 2022) will focus on new experimental and theoretical developments on the role of strange quark.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sqm2022.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sqm2022.web.cern.ch" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
 company_name: HIPEx
@@ -76,13 +76,7 @@ exclude:
   - vendor/ruby/
   - _site/
   - _site-build/
-  - ._sync_*.db-wal
-  - ._sync_*.db-shm
-  - ._sync_*.db
-  - .owncloudsync.log
-  - "**/.*.db-wal"
-  - "**/.*.db-shm"
-  - "**/.*.db"
+  - update_cern.sh
 # permalink: /:collection/:categories/:title/
 
 include:
