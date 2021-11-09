@@ -25,15 +25,15 @@ Registration will open on **1 December 2021** and will continue through **1 June
 
 |        Category                |   Fee          |                         |
 |:------------------------------:|:--------------:|                         |
-| Early Registration             | USD 500        | Until **31 March 2022** |
-| Registration                   | USD 550        | Since **1 April 2022**  |
-| Accompanying Persons           | USD 250        |                         |
-| Accompanying Persons (Reduced) | USD 120        |                         |
+| Early Registration             | EUR 500        | Until **31 March 2022** |
+| Registration                   | EUR 550        | Since **1 April 2022**  |
+| Accompanying Persons           | EUR 250        |                         |
+| Accompanying Persons (Reduced) | EUR 120        |                         |
 | On-site Registration           | Not Available  | Since **1 June 2022**   |
 
-The conference fee is **USD 500** for early registration (for participants who register and pay within and before **31 March 2022** in KST) and **USD 550** for regular registration (Within and after **1 April 2022** in KST). The fee includes all the *coffee breaks and lunches*, the *welcome receptions*, *poster session*, *excursion*, *bbq-party*, *conference banquet*,  and, if available, a *printed copy of the Conference Proceedings*.
+The conference fee is **EUR 500** for early registration (for participants who register and pay within and before **31 March 2022** in KST) and **EUR 550** for regular registration (Within and after **1 April 2022** in KST). The fee includes all the *coffee breaks and lunches*, the *welcome receptions*, *poster session*, *excursion*, *bbq-party*, *conference banquet*,  and, if available, a *printed copy of the Conference Proceedings*.
 
-The full fee for **accompanying persons** is **USD 250** and includes *coffee breaks*, *lunches*, *excursion*, *bbq-party* and *banquet*. Reduced fee options for accompanying persons joining excursion and/or social dinner only are also available.
+The full fee for **accompanying persons** is **EUR 250** and includes *coffee breaks*, *lunches*, *excursion*, *bbq-party* and *banquet*. Reduced fee options for accompanying persons joining excursion and/or social dinner only are also available.
 
 Following is comparisons for all categories of participants.
 

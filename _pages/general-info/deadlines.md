@@ -17,14 +17,13 @@ th, td {
 </style>
 | Name                                                 | Date           | Note         |
 |:-----------------------------------------------------|:---------------|:-------------|
-| 1st Announcement                                     | 15 Nov 2021    |              |
+| 1st Announcement                                     | 30 Nov 2021    |              |
 | 2nd Announcement                                     | 15 Jan 2022    |              |
 | Registration and student support request opening     | 1  Feb 2022    |              |
 | Abstract submission opening                          | 1  Feb 2022    |              |
-| Fee payment opening                                  | 1  Feb 2022    |              |
 | **Student support request deadline**                 | 28 Mar 2022    |              |
 | **Abstract submission deadline**                     | 28 Mar 2022    |              |
-| **Early registration deadline**                      | 15 Apr 2022    |              |
+| **Early registration deadline**                      | 29 Apr 2022    |              |
 | Abstract and support acceptance notification         | 15 Apr 2022    |              |
 | Final program comfirmation                           | 31 Apr 2022    |              |
 | **Hotel reservation deadline (special offer)**       | 10 May 2022    |              |
