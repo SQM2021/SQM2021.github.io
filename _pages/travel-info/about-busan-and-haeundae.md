@@ -4,9 +4,9 @@ title: "About Busan and Haeundae"
 order: 2
 ---
 
-This post refers to [VISIT BUSAN](https://www.visitbusan.net/en/index.do){:target="_blank"} homepage, which is government branch to introduce landmarks in Busan to visitors.
+This post refers to [VISIT BUSAN](https://www.visitbusan.net/en/index.do){:target="_blank"} homepage, which is government branch to introduce landmarks in Busan to visitors. You can find useful information leaflet for tourists at [here](https://www.visitbusan.net/board/list.do?boardId=BBS_0000007&menuCd=DOM_000000303001000000){:target="_blank"}. And now we hereby introduce few places.
 
-The nearest metro station and time to reach (on foot) from metro station also noted with each places. The circled letter besides name of metro station is number of metro-line. (Ⓚ: Donghae-Line, Ⓖ: Busan-Gimhae Light Transit)
+The nearest metro station and time to reach (on foot) from metro station also noted with each places. The circled numbers beside name of metro station is number of metro-line. <!--(Ⓚ: Donghae-Line, Ⓖ: Busan-Gimhae Light Transit)-->
 <!-- ①②③④ⓀⒼ -->
 
 ## Tourists' Places

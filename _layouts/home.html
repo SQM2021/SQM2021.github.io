@@ -80,7 +80,7 @@ layout: default
                 <h3 id="information" class="services-header-title">Informations</h3>
                 <p class="services-header-body" style="padding-left:8%; padding-right:8%;"><em> The 20th International Conference on Strangeness in Quark Matter </em>  </p><hr>
                 <p class="services-body" style="font-size:17px; padding-left:12%; padding-right:12%;">This conference will focus on new experimental and theoretical developments on the role of strange and heavy-flavour quarks in high energy heavy ion collisions and in astrophysical phenomena. </p>
-                <p class="services-body" style="font-size:17px; padding-left:12%; padding-right:12%;">SQM 2022 will be the 20th edition of the conference series following the recent events in New York (2021), Bari (2019) and Utrecht (2017). The full history of the SQM conferences is listed <a href="/history">here</a>. </p><hr><hr>
+                <p class="services-body" style="font-size:17px; padding-left:12%; padding-right:12%;">SQM 2022 will be the 20th edition of the conference series following the recent events in New York (2021), Bari (2019) and Utrecht (2017). The full history of the SQM conferences is listed <a href="/pages/history/history/">here</a>. </p><hr><hr>
                 <p class="services-header-body"><em>The scientific issues</em></p><hr>
                 <ul class="home-list" style="padding-left:12%; padding-right:12%">
                     <li class="services-body" style="font-size:17px;">Strangeness and heavy-quark production in nuclear collisions and hadronic interactions</li>
@@ -121,10 +121,37 @@ layout: default
             </div>
         </div>
 
+        <style>
+            .logocard {
+                position: relative;
+                display: inline-block;
+                top: 0;
+                left: 0;
+            }
+            .logocard .img-bottom {
+                height: 5em;
+            }
+            .logocard .img-top {
+                display: none;
+            }
+            .logocard:hover .img-top {
+                display: inline;
+                height: 5em;
+            }
+            .logocard:hover .img-bottom {
+                display: none;
+                height: 0em;
+            }
+
+        </style>
         <div class="row services-row services-row-head services-row-1">
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <a href="/pages/general-info/poster-logo/"><div class="services-group wow animated fadeInLeft" data-wow-offset="40">
-                    <p class="services-icon"><i class="fa fa-plane fa-5x"></i></p>
+                    <!-- <p class="services-icon"><i class="fa fa-plane fa-5x"></i></p> -->
+                    <p class="logocard services-icon">
+                        <img class="fa img-bottom" src="/assets/files/sqm2022-logo/img/SQM2022-logo_T6-Blue.png">
+                        <img class="fa img-top" src="/assets/files/sqm2022-logo/img/SQM2022-logo_T6-White.png">
+                    </p>
                     <h4 class="services-title">Poster/Logo</h4>
                 </div>
             </a>
