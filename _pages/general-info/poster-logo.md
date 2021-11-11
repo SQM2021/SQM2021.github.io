@@ -8,7 +8,7 @@ order: 5
 
 We provide 4 types of logo, you can use proper one for your slide, poster, etc.
 
-<a href="/assets/files/sqm2022-logo/sqm2022-logo.zip" download>Click to download all in pdf, png, jpg (.zip)</a>
+<a href="/assets/files/sqm2022-logo/sqm2022LogoPack.zip" download>Click to download all in pdf, png, jpg, ai (.zip)</a>
 
 {% include logogallery.html %}
 

@@ -5,6 +5,4 @@ notitle: true
 
 # Sponsors
 
-> (This is temporal list of sponsors. Not fixed. (19, Aug, 2021))
-
-Thanks for your sponse.
+Thanks to several sponsors about supporting our SQM2022 conference.
