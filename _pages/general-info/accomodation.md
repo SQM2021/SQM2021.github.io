@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-The Paradise Hotel is 5-stars hotel which locates right in front of the Haeundae beach. 
+The Paradise Hotel -Conference Venue- is 5-stars hotel which locates right in front of the Haeundae beach. 
 
 ## Room Types
 
@@ -70,7 +70,8 @@ If you want to see other photo and get more informations, please go to [here](ht
 ## Special Offers
 The Paradise Hotel has special price offer for participants.
 
-***All currency is KRW (South Korea WON)***
+***All currency is KRW (South Korea WON)***  
+***All prices are inclusive of 10% Service Charge and 10% Government Tax***
 
 <style>
     td, th{
