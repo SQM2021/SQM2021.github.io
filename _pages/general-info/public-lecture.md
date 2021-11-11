@@ -1,7 +1,8 @@
 ---
 layout: banner
-title: "Public lecture"
+title: "Public Lecture"
 order: 6
+hide: false
 ---
 
 <style>
@@ -16,6 +17,9 @@ th, td {
 }
 </style>
 
+To be announced.
+
+<!-- 
 [Text for Korean](#korean) below the english one.
 
 | Presentor | **Jane Doe**, Various University | 
@@ -31,4 +35,4 @@ The talk will be presented with English, and radio simultaneous interpretation s
 
 | 강연자 | **Jane Doe**, Various University |
 | 제목  | |
-| 일시  | 2022년 6월 14일 화요일 |
+| 일시  | 2022년 6월 14일 화요일 | -->

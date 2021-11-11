@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-<div class="container">  
+<div class="container">
+  {% if page.hide %}
+THIS IS HIDDEN CONTENTS! <br>
+THIS CONTENT CAN BE MODIFIED OR DELETED LATER.<br>
+DO NOT REFER THIS DOCUMENT!
+{% endif %}
   <div class="row">
     {% include sidebar.html %}
     <div class="col-sm-8 col-md-8">

@@ -5,15 +5,13 @@ order: 3
 ---
 
 The conference will be held at *Paradise Hotel Busan* overlooking the scenic beauty of Haeundae Beach is a five-star hotel in Busan with 532 guest rooms. With stylish and cozy rooms, a high-end ocean spa and Korea's first luxury all-day dining restaurant, the hotel is ideal for every guest, whether for business or for pleasure. For futher details on *Paradise Hote Busan*, please visit the following webpage: [https://www.busanparadisehotel.co.kr/front](https://www.busanparadisehotel.co.kr/front)
-<<<<<<< HEAD
-![Venue map](/assets/img/slider/venue map.png){: width="100%"}
-=======
+
+![Venue map](/assets/img/slider/venue-map.png){: width="100%"}
 
 ## Overall Map
 
 ## Places
 
->>>>>>> 90083520f13da1addcee1a78ce73306fc0991182
 - Annex Garden
 
 ![Annex Garden](/assets/img/slider/annex_garden.jpg){: width="100%"}
@@ -33,13 +31,13 @@ The conference will be held at *Paradise Hotel Busan* overlooking the scenic bea
 
   This room is suitable for important meetings and seminars with dignity and formality. The room can be divided into three sections depending on the nature of the event. Extra-detailed, individualized services are one of the features this room can offer.
 
-- Miami Room/ Venice Room/ Napoli Room (Parallel session)
+<!-- - Miami Room/ Venice Room/ Napoli Room (Parallel session)
 
 ![Small halls](/assets/img/slider/small_hall.jpg){: width="100%"}
 
-  Suitable for small events for VIP guests, the small banquet hall offers the highest level of satisfaction with its cozy atmosphere, refined service, and formal interior.
+  Suitable for small events for VIP guests, the small banquet hall offers the highest level of satisfaction with its cozy atmosphere, refined service, and formal interior. -->
 
-- Capri Room (cafétéria)
+- Capri Room (cafeteria)
 
 ![Capri Room](/assets/img/slider/cafeteria.jpg){: width="100%"}
 

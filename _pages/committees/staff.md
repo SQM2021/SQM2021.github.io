@@ -16,3 +16,4 @@ order: 4
 |:-------------|:--------------------------|
 | Bong-Hwi Lim | Pusan National University |
 | Minjae Kwon  | Pusan National University |
+| Yongjun Choi | Pusan National University |

@@ -4,16 +4,16 @@ title: "About Busan and Haeundae"
 order: 2
 ---
 
-This post refers to [VISIT BUSAN](https://www.visitbusan.net/en/index.do){:target="_blank"} homepage, which is government branch to introduce landmarks in Busan to visitors. You can find useful information leaflet for tourists at [here](https://www.visitbusan.net/board/list.do?boardId=BBS_0000007&menuCd=DOM_000000303001000000){:target="_blank"}. And now we hereby introduce few places.
+This post refers to [VISIT BUSAN](https://www.visitbusan.net/en/index.do){:target="_blank"} homepage, which is government branch to introduce landmarks in Busan to visitors. You can find useful information leaflet for tourists at [here](https://www.visitbusan.net/board/list.do?boardId=BBS_0000007&menuCd=DOM_000000303001000000){:target="_blank"}.
 
-The nearest metro station and time to reach (on foot) from metro station also noted with each places. The circled numbers beside name of metro station is number of metro-line. <!--(Ⓚ: Donghae-Line, Ⓖ: Busan-Gimhae Light Transit)-->
+Now we hereby introduce few places. The nearest metro station and time to reach (on foot) from metro station also noted with each places. The circled numbers beside name of metro station is number of metro-line. (Ⓚ: Donghae-Line) <!--(Ⓚ: Donghae-Line, Ⓖ: Busan-Gimhae Light Transit)-->
 <!-- ①②③④ⓀⒼ -->
 
 ## Tourists' Places
 
-### Places on Map
+<!-- ### Places on Map -->
 ### Haeundae (해운대)
-Nearest Station: Haeundae Station(②, 해운대), Walk: 9min.
+Nearest Station: Haeundae Station(②, 해운대), Walk: 9min, OR Just right in front of conference venue.
 
 ![Haeundae](/assets/img/introduction/Haeundae.jpg){: width="100%"}
     
@@ -64,29 +64,41 @@ Nearest Station: Beomeosa Station(①, 범어사), Walk: 1hr. 4min.
 ### Dongnaeeupseong (동래읍성)
 Nearest Station: Myeongnyun Station(①, 명륜), Walk: 26min.
 
-![Transports in Busan](/assets/img/introduction/Dongnaeeupseong.jpg){: width="100%"}
+![Dongnaeeupseong](/assets/img/introduction/Dongnaeeupseong.jpg){: width="100%"}
     
   The stone walls of the Dongnaeeupseong Walled Town have been recently restored by placing new bricks on top of the old ones. While walking along the stone walls, you will encounter the magnificent North Gate, where you can enjoy an open and peaceful view of Eupseong Square. Moreover, you will appreciate its undulating path and beautiful scenery along the staircase-style trail.
 
 ### Yongdusan park (용두산 공원)
 Nearest Station: Jungang Station(①, 중앙), Walk: 15min.
 
-![Transports in Busan](/assets/img/introduction/Yongdusan.jpg){: width="100%"}
+![Yongdusan park](/assets/img/introduction/Yongdusan.jpg){: width="100%"}
     
   Even though the road to Yongdusan Park has an ascending slope, the trees cast a cool shade along the road, making it a pleasant walk to the entrance of the park. For travelers who will take the Busan Metro, they can use the escalator entrance close to the station to reach the park more conveniently. The citizen’s bell and flower clock placed under the elegant pavilion greet visitors. The citizen’s bell, made through donations by Busan residents, is used to welcome New Year’s Eve. If you wish to tread on rosy paths only, do not forget the flower clock at Yongdusan Park.
 
 ### Busan citizens park (부산시민공원)
 Nearest Station: Bujeon Station(①, 부전), Walk: 23min.
 
-![Transports in Busan](/assets/img/introduction/Citizenspark.jpg){: width="100%"}
+![Busan citizens park](/assets/img/introduction/Citizenspark.jpg){: width="100%"}
     
   Military camp and park—these two words do not match well together. However, there is a place where a military camp is reborn as a park, namely Busan Citizens Park. For 70 years after the liberation in South Korea, this place had been called the “US Army Camp Hialeah,” but now it’s back as a resting area for people in Busan.
 
 ### Gamcheon Culture Village (감천문화마을)
 Nearest Station: Toseong Station(①, 토성), Walk: 32min.
 
-![Transports in Busan](/assets/img/introduction/Gamcheon.jpg){: width="100%"}
+![Gamcheon Culture Village](/assets/img/introduction/Gamcheon.jpg){: width="100%"}
     
   While the village’s beautiful landscape gave it the nickname of the Machu Picchu of Korea, the town was a part of the painful history of Busan. Refugees settled in Gamcheon Village during the Korean War and cultivated the mountainous region to make a living. In 2009, students, artists, and residents decorated the village as a part of the Village Art Project, and the town grew into a leading tourist attraction of Busan since then.
+
+### Shinsegae Centumcity(신세계 센텀시티)
+Nearest Station: CentumCity Station(②, 센텀시티), Walk: 0min. (Entrance is connected with plaza of metro)
+![](/assets/img/introduction/shinsegae.jpg){: width="100%"}
+Shinsegae Centumcity is the largest department store in the earth. It has not only general goods in department store(i.e. clothings, cosmetics, jewlery, luxuries), but also duty-free store, spa, ice link, cinema, cafeteria, cafe, restaurants, supermarket, and bookstore. To do all things in the Shinsegae Centumcity, maybe you cannot finish in one day. 
+
+### Lotte World Adventure & OSIRIA Tourist Complex (롯데 월드 어드벤처, 오시리아 관광단지)
+(Now under construction. The construction will be finished at March 2022)  
+Nearest Station: OSIRIA Station(Ⓚ, 오시리아), Walk: 15min.
+![](/assets/img/introduction/LotteWorldBusan.png){: width="100%"}
+
+  The Lotte World Adventure is the only theme park at Busan (in 2022). The park has 17 of riding attractions in 158,000m<sup>2</sup>. Several parades and performances also will be held. The sector the park placed is "OSIRIA tourist complex". It has many places to go, i.e. IKEA, Lotte Premium Outlet(Shopping mall), Busan Science Museum, Hilton Hotel and Ananti Cove(Resort Area), etc.
 
 You can find more tourists' places in [visitbusan.net](https://www.visitbusan.net/en/index.do){:target="_blank"}.

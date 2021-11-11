@@ -16,9 +16,11 @@
   <ul class="sidebar-link">
     {% assign posts = site.pages | sort_natural: 'order' %}
     {% for pp in posts %}
+    {% unless pp.hide %}
     {% if pp.categoryname == page.categoryname %}
     <li class="sidebar-link"><a href="{{ pp.url }}"> {% if pp == page %} ▶︎ {% endif %} {{ pp.title }}</a></li>
     {% endif %}
+    {% endunless %}
     {% endfor %}
   </ul>
 </div>

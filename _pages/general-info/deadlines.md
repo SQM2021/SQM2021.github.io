@@ -23,9 +23,9 @@ th, td {
 | Abstract submission opening                          | 1  Feb 2022    |              |
 | **Student support request deadline**                 | 28 Mar 2022    |              |
 | **Abstract submission deadline**                     | 28 Mar 2022    |              |
-| **Early registration deadline**                      | 29 Apr 2022    |              |
-| Abstract and support acceptance notification         | 15 Apr 2022    |              |
-| Final program comfirmation                           | 31 Apr 2022    |              |
+| Abstract and support acceptance notification         | 28 Apr 2022    |              |
+| Final program comfirmation                           | 30 Apr 2022    |              |
+| **Early registration deadline**                      | 02 May 2022    |              |
 | **Hotel reservation deadline (special offer)**       | 10 May 2022    |              |
 | **Registration deadline**                            | 20 May 2022    |              |
 | Final Announcement                                   | 10 Jun 2022    |              |

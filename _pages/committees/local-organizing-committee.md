@@ -16,7 +16,7 @@ order: 3
 
 |:--------------------------|:-----------------------------|----------------|
 | Sungtae Cho               | Kangwon National University  |                |
-| Byungsik Hong             | Korea University             | Co-Chair       |
+| Byungsik Hong             | Korea University             | (Co-Chair)     |
 | Sangyong Jeon             | McGill University            |                |
 | Beomkyu Kim               | Sungkyunkwan University      |                |
 | Eun Joo Kim               | Jeonbuk National University  |                |
@@ -26,11 +26,11 @@ order: 3
 | Minjae Kwon               | Pusan National University    |                |
 | Youngil Kwon              | Yonsei University            |                |
 | Chang-Hwan Lee            | Pusan National University    |                |
-| Su Houng Lee              | Yonsei University            | Co-Chair       |
+| Su Houng Lee              | Yonsei University            | (Co-Chair)     |
 | Bong-hwi Lim              | Pusan National University    |                |
 | Sanghoon Lim              | Pusan National University    |                |
 | Dong Ho Moon              | Jeonnam National University  |                |
 | Seung-il Nam              | Pukyong National University  |                |
 | Inkyu Park                | University of                |                |
-| In-Kwon Yoo               | Pusan National University    | Chair          |
+| In-Kwon Yoo               | Pusan National University    | (Chair)        |
 | Jin-Hee Yoon              | Inha University              |                |

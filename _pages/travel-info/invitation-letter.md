@@ -1,6 +1,6 @@
 ---
 layout: banner
-title: "Invitation letter"
+title: "Invitation Letter"
 order: 3
 ---
 
