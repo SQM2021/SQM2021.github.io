@@ -113,3 +113,6 @@ If the period includes Saturday, the Saturday surcharge will be charged for the 
   - From 3days to 2days prior to Arrival date : 50% of the Room charge
   - From 1days or less prior to Arrival date : no refund
 
+### How to Apply Offer
+
+You can apply either of 2 ways to reserve with the special offer, *(1) web-based reservation tool* and *(2) paper-based reservation form*. After registration in indico, *"Special Offer of Paradise Hotel"* will be appeared at the menu of indico. You can get hyperlink of the tool or the form. **Access to menu is granted to registered participants only.** If you want to get the hyperlink or the submission form without a registration, please contact to the [secretariat](mailto:sqm2022@hipex.phys.pusan.ac.kr)
