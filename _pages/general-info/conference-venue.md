@@ -4,22 +4,23 @@ title: "Conference Venue"
 order: 3
 ---
 
-The conference will be held at *Paradise Hotel Busan* overlooking the scenic beauty of Haeundae Beach is a five-star hotel in Busan with 532 guest rooms. With stylish and cozy rooms, a high-end ocean spa and Korea's first luxury all-day dining restaurant, the hotel is ideal for every guest, whether for business or for pleasure. For futher details on *Paradise Hote Busan*, please visit the following webpage: [https://www.busanparadisehotel.co.kr/front](https://www.busanparadisehotel.co.kr/front)
+The conference will be held at *Paradise Hotel Busan*, overlooking the scenic beauty of Haeundae Beach, which is a five-star hotel in Busan with 532 guest rooms. With stylish and cozy rooms, a high-end ocean spa and Korea's first luxury all-day dining restaurant, the hotel is ideal for every guest, whether for business or for pleasure. For further details on *Paradise Hotel Busan*, please visit the following webpage: [https://www.busanparadisehotel.co.kr/front](https://www.busanparadisehotel.co.kr/front)
+
+
+## Floor plan
 
 <img style="border: 3px solid #000; width: 100%" src="/assets/img/slider/venue-map.png">
 
-## Overall Map
-
 ## Places
 
-- Annex Garden
+- Annex Garden (Reception)
 
 ![Annex Garden](/assets/img/slider/annex_garden.jpg){: width="100%"}
 
   The Paradise’s outdoor garden with the Haeundae Beach and green landscaping.
   It offers memories of a summer night with a new concept for each season.
 
-- Grand Ballroom (Planary & Parallel session)
+- Grand Ballroom (Planary & Parallel sessions, Banquet)
 
 ![Grand Ballroom](/assets/img/slider/grand_ballroom.jpg){: width="100%"}
 
@@ -37,7 +38,7 @@ The conference will be held at *Paradise Hotel Busan* overlooking the scenic bea
 
   Suitable for small events for VIP guests, the small banquet hall offers the highest level of satisfaction with its cozy atmosphere, refined service, and formal interior. -->
 
-- Capri Room (cafeteria)
+- Capri Room (Lunch)
 
 ![Capri Room](/assets/img/slider/cafeteria.jpg){: width="100%"}
 

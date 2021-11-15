@@ -14,58 +14,47 @@ order: 1
 </style>
 
 |:--------------------------|:---------------------------------------------------------------------|--------------|
-| Joerg Aichelin            | SUBATECH Nantes                                                      | France       |
-| Yasuyuki Akiba            | RIKEN-RBRC                                                           | Japan        |
+| Jörg Aichelin             | SUBATECH Nantes                                                      | France       |
 | Federico Antinori         | INFN Padova                                                          | Italy        |
-|                           | CERN                                                                 | Switzerland  |
-| Francesco Becattini       | University of Firenze                                                | Italy        |
-|                           | INFN Firenze                                                         | Italy        |
-| Marcus Bleicher           | HFHF                                                                 | Germany      |
-|                           | Goethe University Frankfurt                                          | Germany      |
-| Peter Braun-Munzinger     | EMMI, GSI                                                            | Germany      |
-|                           | University of Heidelberg                                             | Germany      |
+| Francesco Becattini       | Firenze University / INFN Firenze                                    | Italy        |
+| Marcus Bleicher           | HFHF / Goethe University Frankfurt                                   | Germany      |
+| Peter Braun-Munzinger     | GSI                                                                  | Germany      |
 | Helen Caines              | Yale University                                                      | USA          |
 | Andrea Dainese            | INFN Padova                                                          | Italy        |
 | Xin Dong                  | LBNL                                                                 | USA          |
 | Domenico Elia             | INFN Bari                                                            | Italy        |
 | Laura Fabbietti           | Technical University of Munich                                       | Germany      |
-| Wojtek Florkowski         | Krakow University                                                    | Poland       |
-| Tetyana Galatyuk          | GSI                                                                  | Germany      |
+| Wojtek Florkowski         | Jagiellonian University                                              | Poland       |
+| Tetyana Galatyuk          | Technical University Darmstadt / GSI                                 | Germany      |
 | Marek Gaździcki           | Jan Kochanowski University of Kielce                                 | Poland       |
 |                           | Goethe University Frankfurt                                          | Germany      |
-| Paolo Giubellino          | INFN Torino                                                          | Italy        |
-|                           | GSI, FAIR Darmstadt                                                  | Germany      |
-| Boris Hippolyte           | University of Strasbourg                                             | France       |
-| Huan Z. Huang             | UCLA(University of California, Los Angeles)                          | USA          |
+| Paolo Giubellino          | GSI/FAIR                                                             | Germany      |
+| Boris Hippolyte           | University of Strasbourg / IPHC-IN2P3                                | France       |
+| Mei Huang                 | GUCAS                                                                | China        |
+| Huan Z. Huang             | UCLA                                                                 | USA          |
 | Sangyong Jeon             | McGill University                                                    | Canada       |
-| Alexander Kalweit         | CERN Geneva                                                          | Switzerland  |
+| Alexander Kalweit         | CERN                                                                 | Switzerland  |
 | Kangseog Lee              | Chonnam National University                                          | Korea        |
-| Yen-Jie Lee               | MIT Cambridge                                                        | USA          |
+| Yen-Jie Lee               | MIT                                                                  | USA          |
 | Maria Paola Lombardo      | INFN Firenze                                                         | Italy        |
 | Christina Markert         | University of Texas at Austin                                        | USA          |
-| Berndt Müller             | BNL                                                                  | USA          |
-|                           | Duke University                                                      | USA          |
-| Grazyna Odyniec           | LBNL                                                                 | USA          |
+| Berndt Müller             | Duke University                                                      | USA          |
+| Azwinndini Muronga        | Nelson Mandela University                                            | South Africa |
+| Grazyna Odyniec           | LBL                                                                  | USA          |
+| Dennis V. Perepelitsa     | University of Colorado                                               | USA          |
 | Johann Rafelski           | University of Arizona                                                | USA          |
+| Claudia Ratti             | University of Houston                                                | USA          |
 | Lijuan Ruan               | BNL                                                                  | USA          |
-| Alexander Sorin           | JINR Dubna                                                           | Russia       |
-| George Stephans           | MIT Cambridge                                                        | USA          |
-| Horst Stöcker             | FIAS(Frankfurt Institute for Advanced Studies)                       | Germany      |
-|                           | Goethe University Frankfurt                                          | Germany      |
-|                           | GSI Darmstadt                                                        | Germany      |
-| Joachim Stroth            | Goethe University Frankfurt                                          | Germany      |
+| Chihiro Sasaki            | University of Wrocław                                                | Poland       |
+| Cesar Luiz da Silva       | LANL                                                                 | USA          |
+| Alexander Sorin           | JINR                                                                 | Russia       |
+| Horst Stöcker             | FIAS / Goethe University Frankfurt / GSI                             | Germany      |
+| Joachim Stroth            | Goethe University Frankfurt / GSI                                    | Germany      |
 | Fuqiang Wang              | Purdue University                                                    | USA          |
-| Nu Xu                     | CCNU (Central China Normal University)                               | China        |
-|                           | LBNL                                                                 | USA          |
+| Nu Xu                     | LBL                                                                  | USA          |
 | Zhangbu Xu                | BNL                                                                  | USA          |
 | Pengfei Zhuang            | Tsinghua University                                                  | China        |
 
-<!-- | Dennis Perepelitsa        | Colorado University                                                  | USA          | -->
-<!-- | Chihiro Sasaki            | Wroclaw University                                                   | Poland       | -->
-<!-- | Azwinndini Muronga        | Nelson-Mandela University                                            | South Africa | -->
-<!-- | Claudia Ratti             | Houston University                                                   | USA          | -->
-<!-- | Cesar Da Silva            | Los Alamos National Laboratory                                       | USA          | -->
-<!-- | Mei Huang                 | GUCAS(University of Chinese Academy of Sciences)                     | China        | -->
 <!-- | Hannah Elfner             | GSI                                                                  | Germany      | -->
 <!-- |                           | FIAS(Frankfurt Institute for Advanced Studies)                       | Germany      | -->
 <!-- | Adam Kiesel               | Warsaw University of Technology                                      | Poland       | -->

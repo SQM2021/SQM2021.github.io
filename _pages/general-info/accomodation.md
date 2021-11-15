@@ -1,11 +1,11 @@
 ---
 layout: banner
-title: "Accomodation"
+title: "Accommodation"
 order: 4
 ---
 
 
-The Paradise Hotel -Conference Venue- is 5-stars hotel which locates right in front of the Haeundae beach. 
+The Paradise Hotel (Conference Venue) is 5-stars hotel which locates right in front of the Haeundae beach. 
 
 ## Room Types
 
@@ -63,15 +63,15 @@ The Paradise Hotel -Conference Venue- is 5-stars hotel which locates right in fr
     </tr>
 </table>
 
-If you want to see other photo and get more informations, please go to [here](https://www.busanparadisehotel.co.kr/front/hotel/room/view?RR_ROOM_CATEGORY=DELUXE&RR_ROOM_TYPE=DELUXE_CITY&RR_LOCATION_TYPE=MAIN_BUILDING){:target="_blank"}
+For more information on the hotel, please go to the [website](https://www.busanparadisehotel.co.kr/front/hotel/room/view?RR_ROOM_CATEGORY=DELUXE&RR_ROOM_TYPE=DELUXE_CITY&RR_LOCATION_TYPE=MAIN_BUILDING){:target="_blank"}.
 
 
 
 ## Special Offers
-The Paradise Hotel has special price offer for participants.
+The Paradise Hotel has a special price offer for conference participants.
 
-***All currency is KRW (South Korea WON)***  
-***All prices are inclusive of 10% Service Charge and 10% Government Tax***
+***All currency is KRW (Korean Won)***  
+***All prices include 10% service charge and 10% government tax***
 
 <style>
     td, th{
@@ -85,34 +85,38 @@ The Paradise Hotel has special price offer for participants.
 
 | Room Type            | Bed Type    | Normal Price | Special Offer |
 |:--------------------:|:-----------:|:------------:|:-------------:|
-| Deluxe City          | Double/Twin | 641,300      | 217,800       |
-| Deluxe Ocean         | Double      | 738,100      | 242,000       |
-| Deluxe Ocean Terrace | Double/Twin | 762,300      | 290,400       |
+| Deluxe City          | Double/Twin | ₩ 641,300    | ₩ 217,800     |
+| Deluxe Ocean         | Double      | ₩ 738,100    | ₩ 242,000     |
+| Deluxe Ocean Terrace | Double/Twin | ₩ 762,300    | ₩ 290,400     |
 
-If the period includes Saturday, the Saturday surcharge will be charged for the day.  
-(*) Saturday surcharge : 84,700
+The prices are for one night. If the period includes Saturday, the Saturday surcharge will be charged for the day.  
+(*) Saturday surcharge : ₩ 84,700
 
 **Others**
 
-| Name                         | Price  | Note                                       |
-|:----------------------------:|:------:|:------------------------------------------:|
-| Breakfast<br>(pre-booked)    | 30,250 | Cannot be canceled.<br>Per person, per day |
-| Breakfast<br>(when check-in) | 42,000 | Per person, per day                        |
-| Extra Bed                    | 72,600 | Per bed, per day                           |
+| Name                         | Price    | Note                                       |
+|:----------------------------:|:--------:|:------------------------------------------:|
+| Breakfast<br>(pre-booked)    | ₩ 30,250 | No cancellation<br>Per person and per day  |
+| Breakfast<br>(when check-in) | ₩ 42,000 | Per person and per day                     |
+| Extra Bed                    | ₩ 72,600 | Per bed and per day                        |
 
 **Notes**
 
-* The rates above are non-commissionable, and they are Inclusive of 10% Service Charge and 10% Government Tax.
-* Check-in time is 3p.m. Check out time is 11:30 a.m. (If you pass the check-out time, the following rates will apply)  
-  - Until 3pm: 50% of the room rate
-  - After 3pm: 100% of the room rate
+* The special offers are only for the conference participants.
+* The rates inclusivInclusive of 10% Service Charge and 10% Government Tax.
+* Check-in time is 3 p.m, and check-out time is 11:30 a.m. All late checkouts will be charged with following fee:  
+  - Until 3 p.m. : 50% of the room rate
+  - After 3 p.m. : 100% of the room rate
 * FREE ACCESS : Swimming pool, Fitness center, Play station zone, Kids zone
 * 50% Special Discount on admission to Sauna and Outdoor hot spring ‘Cimer’
-* CANCELLATION POLICY (Policies: Cancellation or No-Show after the room reservation is being charged as below)
-  - From 7days to 4days prior to Arrival date : 30% of the Room charge
-  - From 3days to 2days prior to Arrival date : 50% of the Room charge
-  - From 1days or less prior to Arrival date : no refund
+* CANCELLATION POLICY
+  - 8 days prior to Arrival date : Free cancellation
+  - From 7 days to 4 days prior to Arrival date : 30% of the Room charge
+  - From 3 days to 2 days prior to Arrival date : 50% of the Room charge
+  - From 1 days or less prior to Arrival date : No refund
 
 ### How to Apply Offer
-
+Details on how to apply for the offer will be announced before the opening date of registration (1 February 2022).
+<!--
 You can apply either of 2 ways to reserve with the special offer, *(1) web-based reservation tool* and *(2) paper-based reservation form*. After registration in indico, *"Special Offer of Paradise Hotel"* will be appeared at the menu of indico. You can get hyperlink of the tool or the form. **Access to menu is granted to registered participants only.** If you want to get the hyperlink or the submission form without a registration, please contact to the [secretariat](mailto:sqm2022@hipex.phys.pusan.ac.kr)
+-->

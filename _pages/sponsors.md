@@ -5,4 +5,4 @@ notitle: true
 
 # Sponsors
 
-Thanks to several sponsors about supporting our SQM2022 conference.
+Thanks to all sponsors for kind contributions to the SQM2022 conference.
