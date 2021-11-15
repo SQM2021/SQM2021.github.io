@@ -17,13 +17,11 @@ order: 3
 |:--------------------------|:-----------------------------|----------------|
 | Sungtae Cho               | Kangwon National University  |                |
 | Byungsik Hong             | Korea University             | (Co-Chair)     |
-| Sangyong Jeon             | McGill University            |                |
 | Beomkyu Kim               | Sungkyunkwan University      |                |
-| Eun Joo Kim               | Jeonbuk National University  |                |
+| Eun-Joo Kim               | Jeonbuk National University  |                |
 | Yongsun Kim               | Sejong University            |                |
 | Youngman Kim              | Institute of Basic Science   |                |
 | MinJung Kweon             | Inha University              |                |
-| Youngil Kwon              | Yonsei University            |                |
 | Chang-Hwan Lee            | Pusan National University    |                |
 | Su Houng Lee              | Yonsei University            | (Co-Chair)     |
 | Sanghoon Lim              | Pusan National University    |                |
