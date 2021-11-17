@@ -103,7 +103,7 @@ The prices are for one night. If the period includes Saturday, the Saturday surc
 **Notes**
 
 * The special offers are only for the conference participants.
-* The rates inclusivInclusive of 10% Service Charge and 10% Government Tax.
+* The rates include 10% service charge and 10% government tax.
 * Check-in time is 3 p.m, and check-out time is 11:30 a.m. All late checkouts will be charged with following fee:  
   - Until 3 p.m. : 50% of the room rate
   - After 3 p.m. : 100% of the room rate
