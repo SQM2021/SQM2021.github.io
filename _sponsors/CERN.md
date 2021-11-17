@@ -5,4 +5,5 @@ long_name  : Organisation européenne pour la recherche nucléaire
 logo       : /assets/img/sponsors/CERN.png
 homepage   : https://home.cern
 country    : 
+hide       : false
 ---

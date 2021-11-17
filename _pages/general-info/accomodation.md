@@ -9,7 +9,7 @@ The Paradise Hotel (Conference Venue) is 5-stars hotel which locates right in fr
 
 ## Room Types
 
-<style>
+<!-- <style>
     .phototable{
         width: 150%;
         border:0px;
@@ -22,12 +22,11 @@ The Paradise Hotel (Conference Venue) is 5-stars hotel which locates right in fr
         border:0px;
         /* left-padding: 5px; */
     }
-</style>
+</style> -->
 
-<table class="phototable">
+<!-- <table class="phototable">
     <tr>
     <td><h3>Deluxe City</h3></td>
-    <!-- <td> asdf</td> -->
     </tr>
     <tr>
     <td><img src="https://www.busanparadisehotel.co.kr/upload/201904/1555489453085.jpg"></td>
@@ -39,7 +38,6 @@ The Paradise Hotel (Conference Venue) is 5-stars hotel which locates right in fr
     </tr>
     <tr>
     <td><h3>Deluxe Ocean</h3></td>
-    <!-- <td> asdf</td> -->
     </tr>
     <tr>
     <td><img src="https://www.busanparadisehotel.co.kr/upload/201904/1555488907950.jpg"></td>
@@ -51,7 +49,6 @@ The Paradise Hotel (Conference Venue) is 5-stars hotel which locates right in fr
     </tr>
     <tr>
     <td><h3>Deluxe Ocean Terrace</h3></td>
-    <!-- <td> asdf</td> -->
     </tr>
     <tr>
     <td><img src="https://www.busanparadisehotel.co.kr/upload/201904/1554958999094.jpg"></td>
@@ -61,8 +58,62 @@ The Paradise Hotel (Conference Venue) is 5-stars hotel which locates right in fr
     <td><b>Double</b></td>
     <td><b>Twin</b></td>
     </tr>
-</table>
+</table> -->
 
+
+<style>
+    .photodiv-2{
+        width: 100%;
+        border:0px;
+    }
+    .photodiv-2 div{
+        display: inline-block;
+        width: 49%;
+        margin
+    }
+    .photodiv-2 img{
+        width: 100%;
+        padding: 0;
+        border: 0px;
+    }
+    .whiteletter{
+        color: #000; /* Fallback for older browsers */
+        color: rgba(0, 0, 0, 0.0);
+    }
+</style>
+### Deluxe City
+
+<div class="photodiv-2">
+<div>
+<img src="https://www.busanparadisehotel.co.kr/upload/201904/1555489453085.jpg"><br>Double
+</div>
+<div>
+<img src="https://www.busanparadisehotel.co.kr/upload/201904/1555489454837.jpg"><br>Twin
+</div>
+</div>
+
+### Deluxe Ocean
+
+<div class="photodiv-2">
+<div>
+<img src="https://www.busanparadisehotel.co.kr/upload/201904/1555488907950.jpg"><br>Double
+</div>
+<div class="whiteletter">
+<img src="https://www.busanparadisehotel.co.kr/upload/201904/1555488910257.jpg"><br>Double
+</div>
+</div>
+
+### Deluxe Ocean Terrace
+
+<div class="photodiv-2">
+<div>
+<img src="https://www.busanparadisehotel.co.kr/upload/201904/1554958999094.jpg"><br>Double
+</div>
+<div>
+<img src="https://www.busanparadisehotel.co.kr/upload/201904/1554958999273.jpg"><br> Twin
+</div>
+</div>
+<br>
 For more information on the hotel, please go to the [website](https://www.busanparadisehotel.co.kr/front/hotel/room/view?RR_ROOM_CATEGORY=DELUXE&RR_ROOM_TYPE=DELUXE_CITY&RR_LOCATION_TYPE=MAIN_BUILDING){:target="_blank"}.
 
 
