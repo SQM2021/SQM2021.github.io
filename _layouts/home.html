@@ -185,15 +185,35 @@ layout: default
             {% endunless %}
             {% endfor %}
         </div> -->
-        <div class="row services-row services-row-head services-row-1" style="margin:0; padding-top:1em; padding-bottom:1em; width:100%; background-color:#fff; border: solid 3px rgb(0, 120, 187)">
+        <style>
+            .home-sponsor-table td{
+                width: 20vw;
+                height: 10vw;
+                padding: 0;
+            }
+
+            .home-sponsor-table img{
+                max-width: 100%;
+                display: inline-block;
+                padding-left: 20%;
+                padding-right:20%;
+                padding-bottom: 0%;
+                padding-top: 0%; 
+            }
+
+        </style>
+
+        <div class="row services-row services-row-head services-row-1 home-sponsor-table" style="margin:0; padding-top:1em; padding-bottom:1em; width:100%; background-color:#fff; border: solid 3px rgb(0, 120, 187)">
             <table>
             {% assign spra = site.sponsors | where: "hide", "false" %}
             {% tablerow spr in spra cols:5 %}
             <!-- <div style ="float: left; width: 20%;"> -->
             <div style ="float: center; width: 100%;">
-                <a href={{ spr.homepage }} target="_blank">
-                <img style="max-width:100%; max-height:100px; display: inline-block;  padding: 5px;" src={{ spr.logo }} alt="{% if spr.short_name %} {{ spr.short_name }} {% else %} {{ spr.long_name }} {% endif %}" >
-            </a>
+                <!-- <div style ="float: center;"> -->
+                {% if spr.homepage %} <a href={{ spr.homepage }} target="_blank"> {% endif %} 
+                <!-- <img style="max-width:100%; max-height:100px; display: inline-block;  padding: 5px; " src={{ spr.logo }} alt="{% if spr.short_name %} {{ spr.short_name }} {% else %} {{ spr.long_name }} {% endif %}" > -->
+                <img class="home-sponsor-img" src={{ spr.logo }} alt="{% if spr.short_name %} {{ spr.short_name }} {% else %} {{ spr.long_name }} {% endif %}" >
+                {% if spr.homepage %} </a> {% endif %}
             </div>
             {% endtablerow %}
             </table>

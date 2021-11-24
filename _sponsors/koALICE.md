@@ -1,6 +1,6 @@
 ---
 layout     : sponsor
-short_name : koALICE
+short_name : KoALICE
 long_name  : Korea ALICE Group
 logo       : /assets/img/sponsors/koalice.png
 homepage   : 

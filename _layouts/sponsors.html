@@ -54,9 +54,9 @@ notitle: true
     {% for sponsor in site.sponsors %}
         {% unless sponsor.hide %}
         <div style="background-color:#fff;">
-            <a target="_blank" href={{ sponsor.homepage }}>
+            {% if sponsor.homepage %} <a target="_blank" href={{ sponsor.homepage }}> {% endif %}
                 <img class='grid-item' src={{ sponsor.logo }} alt="{% if sponsor.short_name %} {{ sponsor.short_name }} {% else %} {{ sponsor.long_name }} {% endif %}" >
-            </a>
+            {% if sponsor.homepage %} </a> {% endif %}
             <div> {% if sponsor.short_name %}<b> {{ sponsor.short_name }}</b> <br> {% endif %} {% unless sponsor.short_name %} <b> {% endunless %} {{sponsor.long_name }} {% unless sponsor.short_name %} </b> {% endunless %}
             {% if sponsor.country %}<br> <i>{{ sponsor.country }}</i> {% endif %} 
             </div>

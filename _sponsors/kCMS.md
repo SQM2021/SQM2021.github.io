@@ -1,9 +1,9 @@
 ---
 layout     : sponsor
-short_name : kCMS
-long_name  : Korea CMS
+short_name : KCMS
+long_name  : Korea CMS Collaboration
 logo       : /assets/img/sponsors/kcms.png
-homepage   : https://www.cms-kr.org/bin/view/
+homepage   : 
 country    : Republic of Korea
 hide       : false
 ---
