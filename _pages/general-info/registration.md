@@ -7,7 +7,7 @@ order: 2
 <style>
 table {
   border-collapse: collapse;
-  border: 1px solid black;
+  border: 1.5px solid black;
 }
 th, td {
   padding: 5px;
@@ -23,12 +23,12 @@ Registration will open on **1 February 2022** and will continue through **20 May
 
 ## Registration Fee
 
-|        Category                |   Fee          |                         |
-|:------------------------------:|:--------------:|-------------------------|
-| Early Registration             | EUR 420 (USD 470)        | Until **30 April 2022** |
-| Registration                   | EUR 500 (USD 550)         | Until **20 May 2022**  |
-| On-site Registration           | Not Available  |    |
-
+|        Category                |   Fee             |                         |
+|:------------------------------:|:-----------------:|-------------------------|
+| Early Registration             | EUR 420 (USD 470) | Until **30 April 2022** |
+| Registration                   | EUR 500 (USD 550) | Until **20 May 2022**   |
+| On-site Registration           | Not Available     |                         |
+  
 <br>
 The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*. There is an additional fee for *excursion* (optional), and detailed information will be annouced later. *Additional banquet ticket* for an accompanying person is EUR 70 (USD 80). The registration fee can be paid on the registeration page with **paypal**. For domestic participants, another option will be noticed. 
 
