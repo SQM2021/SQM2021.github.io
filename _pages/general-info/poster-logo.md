@@ -13,3 +13,6 @@ The four types of logos can be downloaded via the following link.
 {% include logogallery.html %}
 
 ## Poster
+
+<a href="/assets/img/poster/sqm2022-poster-highres.jpg" download>Download High Resolution Image (~9MB)</a>
+![Poster of SQM2022](/assets/img/poster/sqm2022-poster-lowres.jpg){: width="90%" }
