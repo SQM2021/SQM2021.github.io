@@ -1,7 +1,7 @@
 ---
 layout: banner
 title: "Gallery"
-order: 8
+order: 9
 ---
 
 To be posted.
