@@ -17,36 +17,60 @@ th, td {
 tr {
     border-bottom: 1px solid #ccc;
 }
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 </style>
 
-Registration will open on **1 February 2022** and will continue through **20 May 2022**: it will be handled by the [CERN Indico system](https://indico.cern.ch). If you do not have a valid CERN account, you can create a lightweight account [here](https://account.cern.ch/account/Externals/RegisterAccount.aspx).
+<a href="https://indico.cern.ch/event/1037821/registrations/" class="button" target="_blank">GO TO REGISTRATION</a>
+<!-- [](){:} -->
+
+Registration will open on **10 February 2022** and will continue through **20 May 2022**: it will be handled by the CERN Indico system. If you do not have a valid CERN account, you can create a lightweight account [here](https://account.cern.ch/account/Externals/RegisterAccount.aspx).
 
 ## Registration Fee
 
-|        Category                |   Fee             |                         |
-|:------------------------------:|:-----------------:|-------------------------|
-| Early Registration             | EUR 420 (USD 470) | Until **30 April 2022** |
-| Registration                   | EUR 500 (USD 550) | Until **20 May 2022**   |
-| On-site Registration           | Not Available     |                         |
+|        Category                |   Fee (Offline)   |   Fee (Online)   |                               |
+|:------------------------------:|:-----------------:|:----------------:|-------------------------------|
+|                                |                   |                  | Opens on **10 February 2022** |
+| Early Registration             | EUR 420           | EUR 150          | Until **30 April 2022**       |
+| Registration                   | EUR 500           | EUR 150          | Until **20 May 2022**         |
+| On-site Registration           | Not Available     |                  |                               |
   
 <br>
-The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*. There is an additional fee for *excursion* (optional), and detailed information will be annouced later. *Additional banquet ticket* for an accompanying person is EUR 70 (USD 80). The registration fee can be paid on the registeration page with **paypal**. For domestic participants, another option will be noticed. 
+The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*. There is an additional fee for *excursion* (optional), and detailed information will be annouced later. *Additional banquet ticket* for an accompanying person is EUR 110. The registration fee can be paid on the registeration page with **paypal**. For domestic participants, another option will be noticed. 
 
 
-<!--
-The conference fee is **EUR 500** for early registration (for participants who register and pay within and before **31 March 2022** in KST) and **EUR 550** for regular registration (Within and after **1 April 2022** in KST). The fee includes all the *coffee breaks and lunches*, the *welcome receptions*, *poster session*, *excursion*, *bbq-party*, *conference banquet*,  and, if available, a *printed copy of the Conference Proceedings*.
+## Cancellation Policy
 
-The full fee for **accompanying persons** is **EUR 250** and includes *coffee breaks*, *lunches*, *excursion*, *bbq-party* and *banquet*. Reduced fee options for accompanying persons joining excursion and/or social dinner only are also available.
 
-Following is comparisons for all categories of participants.
+| Reimbursement Rule | Period                    |
+|:-----------------: |:--------------------------|
+| 95% (deduct processing fee) | Until **30 April 2022**   |
+| 50%                | Until **20 May 2022**     |
+| Not Refundable     | After **21 May 2022**     |
 
-| Category                                    | Attend Session<br>(Talks, Posters)    | Lunch,<br>Coffee break       | Welcome Reception,<br>Excursion,<br>BBQ Party,<br>Banquet |
-|--------------------------------------------:|:-------------------------------------:|:----------------------------:|:---------------------------------------------------------:|
-| Early Registration<br>Regualar Registration | O                                     | O                            | O                                                         |
-| Accompanying Persons                        | X                                     | O                            | O                                                         |
-| Accompanying Persons <br> (Reduced)         | X                                     | X                            | O                                                         |
+## Payment for Domestic Participants <sub>(Republic of Korea)</sub>
 
-Note that the **early fee** can be applied only if the payment is received by **1 April 2022**. After this date, the full fee applies, also for registrations made before 1 April. For the participants whose institution requires an invoice before making the payment, the early fee will be kept also after 1 April, if the invoice is requested before 1 April.
-The registration fee can be paid on the registeration page with paypal. For domestic participant, another option will be noticed. 
-The **registration closes on 20 May 2022**. On-site registration and payment will not be available.
--->
+대한민국에서 발급된 신용 및 체크카드의 경우 Paypal을 통해 SQM2022 의 등록비 결제를 진행할 수 없습니다.  
+그에 따라, 국적(Nationality)이나 기관의 소재국가(Country of Affliation)가 대한민국(South Korea)인 경우, 조직위원회에서 등록자의 이메일로 입금 요청서를 등록일로부터 2영업일 이내에 송부해드릴 예정입니다.  
+입금이 확인된 이후, indico 의 등록 상태가 지불 대기(Awaiting Payment) 에서 완료(Completed)로 변경됩니다. 영수증은 이메일로 송부드립니다.
+
+입금 요청서의 등록비는 한화(South Korean Won: KRW)로 표기되며, 위 유로화와 별도로 책정되었습니다.
+
+|        분류                     |   등록비(오프라인 )   |   등록비(온라인)    |                               |
+|:------------------------------:|:-----------------:|:----------------:|-------------------------------|
+|                                |                   |                  | 2022년 2월 10일 등록 시작         |
+| Early Registration             | KRW 550,000       | KRW 180,000      | **2022년 4월 30일까지** indico 요청 <br> 5월 7일까지 입금가능  |
+| Registration                   | KRW 650,000       | KRW 180,000      | **2022년 5월 20일까지** indico 요청 <br> 5월 27일까지 입금가능 |
+| On-site Registration           | 불가능              |                  |                               |
+| Accompanying Persons           | 불가능              | KRW 150,000      |                               |
