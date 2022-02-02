@@ -11,7 +11,7 @@ Students and participants who have received their PhDs within the past three yea
 
 For a limited number of applications there will be a reduction or waiving of the conference fee.
 
-Applications for the support will be accepted from **1 February 2022** through **28 March 2022**. Support acceptance notifications will be delivered by **15 April 2022**.
+Applications for the support will be accepted from **10 February 2022** through **28 March 2022**. Support acceptance notifications will be delivered by **15 April 2022**.
 
 The budget for student support is delivered by several [sponsors](/pages/sponsors/) and organizing committee.
 

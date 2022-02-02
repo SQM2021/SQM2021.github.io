@@ -167,7 +167,7 @@ The prices are for one night. If the period includes Saturday, the Saturday surc
   - From 1 days or less prior to Arrival date : No refund
 
 ### How to Apply Offer
-Details on how to apply for the offer will be announced before the opening date of registration (1 February 2022).
+Details on how to apply for the offer will be announced before the opening date of registration (10 February 2022).
 <!--
 You can apply either of 2 ways to reserve with the special offer, *(1) web-based reservation tool* and *(2) paper-based reservation form*. After registration in indico, *"Special Offer of Paradise Hotel"* will be appeared at the menu of indico. You can get hyperlink of the tool or the form. **Access to menu is granted to registered participants only.** If you want to get the hyperlink or the submission form without a registration, please contact to the [secretariat](mailto:sqm2022@hipex.phys.pusan.ac.kr)
 -->

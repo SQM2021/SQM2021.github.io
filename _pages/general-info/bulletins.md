@@ -10,27 +10,21 @@ order: 8
         width: 100%;
         border:0px;
     }
-    .photodiv-2 div{
-        display: inline-block;
-        width: 49%;
-        margin
-    }
-    .photodiv-2 img{
-        width: 100%;
-        padding: 0;
-        border: 0px;
+
+    @media (max-width:800px){
+        .photodiv-2 div{
+            display: inline-block;
+            width: 99%;
+        }
     }
 
-    .photodiv-3{
-        width: 100%;
-        border:0px;
+    @media (min-width:801px){
+        .photodiv-2 div{
+            display: inline-block;
+            width: 49%;
+        }
     }
-    .photodiv-3 div{
-        display: inline-block;
-        width: 32%;
-        margin
-    }
-    .photodiv-3 img{
+    .photodiv-2 img{
         width: 100%;
         padding: 0;
         border: 0px;
@@ -40,17 +34,19 @@ order: 8
         color: #000; /* Fallback for older browsers */
         color: rgba(0, 0, 0, 0.0);
     }
+}
+
 </style>
 
 ## 1st Bulletin (10. Dec. 2021)
 
-Download (pdf, 360KB): 
-<a href="https://sqm2022.pusan.ac.kr/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" download>PNU Server</a>, 
-<a href="https://sqm2022.web.cern.ch/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" download>CERN Server</a>, 
-<a href="https://sqm2022.github.io/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" download>GitHub Server</a>
+Show *pdf* in new tab (360KB): 
+<a href="https://sqm2022.pusan.ac.kr/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="_blank">PNU Server</a>, 
+<a href="https://sqm2022.web.cern.ch/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="_blank">CERN Server</a>, 
+<a href="https://sqm2022.github.io/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="_blank">GitHub Server</a>
 
-
-<div class="photodiv-3">
+*Preview Image*
+<div class="photodiv-2">
 <div>
 <img src="/assets/files/bulletins/img/set-10dec2021/SQM2022-bulletin-10dec2021_p1.png">
 </div>
