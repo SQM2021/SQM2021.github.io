@@ -26,19 +26,20 @@ The conference will be held at *Paradise Hotel Busan*, with panorama view of the
 
   The Grand Ballroom is for large-scale international conferences, banquets, and splendid weddings, representing Paradise Hotel Busan. The full-glass windows of its three sides may be opened during the second part of the wedding ceremony, offering spectacular views of beautiful Haeundae.
 
-- Sydney Room (Parallel session)
+<!-- - Sydney Room (Parallel session)
 
 ![Sydney Room](/assets/img/slider/medium_hall.jpg){: width="100%"}
 
-  This room is suitable for important meetings and seminars with dignity and formality. The room can be divided into three sections depending on the nature of the event. Extra-detailed, individualized services are one of the features this room can offer.
+  This room is suitable for important meetings and seminars with dignity and formality. The room can be divided into three sections depending on the nature of the event. Extra-detailed, individualized services are one of the features this room can offer. -->
 
-<!-- - Miami Room/ Venice Room/ Napoli Room (Parallel session)
+- Miami Room/ Venice Room/ Napoli Room (Parallel session)
 
 ![Small halls](/assets/img/slider/small_hall.jpg){: width="100%"}
 
-  Suitable for small events for VIP guests, the small banquet hall offers the highest level of satisfaction with its cozy atmosphere, refined service, and formal interior. -->
+  Suitable for small events for VIP guests, the small banquet hall offers the highest level of satisfaction with its cozy atmosphere, refined service, and formal interior.
 
-- Capri Room (Lunch)
+<!-- - Capri Room (Lunch) -->
+- Sicily Room (Lunch)
 
 ![Capri Room](/assets/img/slider/cafeteria.jpg){: width="100%"}
 
