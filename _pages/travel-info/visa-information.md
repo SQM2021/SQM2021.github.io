@@ -4,10 +4,33 @@ title: "VISA Information"
 order: 4
 ---
 
+<style>
+    table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    }
+    th, td {
+    padding: 5px;
+    padding-right: 10px;
+    min-width: 8em;
+        border: 1px solid black;
+    }
+</style>
 For the detail information about VISA requestments for traveling Korea, please visit the Korea visa portal website. [https://www.visa.go.kr/main/openMain.do](https://www.visa.go.kr/main/openMain.do)  
 You can also use the [Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10101){:target="_blank"} in Korea Visa Portal to find proper visa to enter Republic of Korea.
 
-There were 66 visa-waiver contries and 45 visa-free contries. But from 13 April 2020, visa privileges are restricted in the 56 visa-waiver contries and 34 visa-free contries because of Covid-19. The list of restricted and allowed contries is [here](/assets/img/slider/visainformation.pdf).
+<!-- There were 66 visa-waiver contries and 45 visa-free contries. But from 13 April 2020, visa privileges are restricted in the 56 visa-waiver contries and 34 visa-free contries because of Covid-19. The list of restricted and allowed contries is [here](/assets/img/slider/visainformation.pdf). -->
+
+## Available Visa Option
+
+Following is your available visa to apply. You can see the availability Visa Waiver Program in [Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10101){:target="_blank"}
+
+| Visa Code | Description | Note |
+|:---------:|:------------|------|
+| B-1       | Visa Exempted <br> (Visa Waiver Program) | For specific nationals based on national agreement |
+| B-2-1     | Tourist/Transit (General) <br> (Visa Waiver Program) | For specific nationals based on national agreement |
+| C-3-1     | Short Term (General) | Need invitation letter <br> (for conference participants without B-1, B-2-1) |
+| C-3-9     | Ordinary Tourist |  Need financial guarantee (like bank balance) <br> (for accompanying persons without B-1, B-2-1) |
 
 ## K-ETA (Participants with Visa Waiver Program)
 

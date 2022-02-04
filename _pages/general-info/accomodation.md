@@ -116,8 +116,6 @@ The Paradise Hotel (Conference Venue) is 5-stars hotel which locates right in fr
 <br>
 For more information on the hotel, please go to the [website](https://www.busanparadisehotel.co.kr/front/hotel/room/view?RR_ROOM_CATEGORY=DELUXE&RR_ROOM_TYPE=DELUXE_CITY&RR_LOCATION_TYPE=MAIN_BUILDING){:target="_blank"}.
 
-
-
 ## Special Offers
 The Paradise Hotel has a special price offer for conference participants.
 
@@ -167,7 +165,21 @@ The prices are for one night. If the period includes Saturday, the Saturday surc
   - From 1 days or less prior to Arrival date : No refund
 
 ### How to Apply Offer
-Details on how to apply for the offer will be announced before the opening date of registration (10 February 2022).
-<!--
-You can apply either of 2 ways to reserve with the special offer, *(1) web-based reservation tool* and *(2) paper-based reservation form*. After registration in indico, *"Special Offer of Paradise Hotel"* will be appeared at the menu of indico. You can get hyperlink of the tool or the form. **Access to menu is granted to registered participants only.** If you want to get the hyperlink or the submission form without a registration, please contact to the [secretariat](mailto:sqm2022@hipex.phys.pusan.ac.kr)
--->
+
+You can apply offer after / or during registration of SQM2022. 
+
+* If you want to apply during registration  
+  (If you're not visa waiver and needed the invitation letter. And you'll stay at Paradise Hotel)
+  * At the end of section "Invitation Letter" of registration form, there's URL to download docx file to apply offer.
+  * Download the form, Fill the form and send to Reservation Office of Paradise Hotel ([res@paradisehotel.co.kr](mailto:res@paradisehotel.co.kr))
+* If you want to apply after registration
+  * After registration (including payment), the menu **"Special Offer of Paradise Hotel"** is appeared (only registered user can see)
+  * You can choose how to reserve the hotel. (Follow the procedure offered.)
+
+This is important date related to apply offer.
+
+|                       | Important Date |
+|:---------------------:|:--------------:|
+| Start Applying Offer  | 10 Feb 2022    | 
+| Finish Applying Offer | 10 May 2022    | 
+| **First-Order, First-Serve basis.** |      |

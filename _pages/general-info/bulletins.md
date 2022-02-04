@@ -9,6 +9,9 @@ order: 8
     .photodiv-2{
         width: 100%;
         border:0px;
+        /* position: relative;
+        text-align: center;
+        color: white; */
     }
 
     @media (max-width:800px){
@@ -35,6 +38,18 @@ order: 8
         color: rgba(0, 0, 0, 0.0);
     }
 }
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 
 </style>
 
@@ -45,15 +60,9 @@ Show *pdf* in new tab (360KB):
 <a href="https://sqm2022.web.cern.ch/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="_blank">CERN Server</a>, 
 <a href="https://sqm2022.github.io/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="_blank">GitHub Server</a>
 
-*Preview Image*
-<div class="photodiv-2">
-<div>
-<img src="/assets/files/bulletins/img/set-10dec2021/SQM2022-bulletin-10dec2021_p1.png">
-</div>
-<div>
-<img src="/assets/files/bulletins/img/set-10dec2021/SQM2022-bulletin-10dec2021_p2.png">
-</div>
-<div>
-<img src="/assets/files/bulletins/img/set-10dec2021/SQM2022-bulletin-10dec2021_p3.png">
-</div>
+<!-- *Preview Image* -->
+<div class="container" style="width:65%;">
+<a href="/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="blank_"> <img src="/assets/files/bulletins/img/set-10dec2021/SQM2022-bulletin-10dec2021_p1.png" style="width:100%;"> </a>
+<div class="centered" style="font-size:30pt; line-height:45pt; text-align:center; vertical-align:center;">
+<a href="/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" style="background-color:#ffffff" target="blank_">Clock Image to Download Bulletins</a></div>
 </div>

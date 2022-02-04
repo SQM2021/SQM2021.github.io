@@ -47,7 +47,7 @@ Registration will open on **10 February 2022** and will continue through **20 Ma
 | On-site Registration           | Not Available     |                  |                               |
   
 <br>
-The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*. There is an additional fee for *excursion* (optional), and detailed information will be annouced later. *Additional banquet ticket* for an accompanying person is EUR 110. The registration fee can be paid on the registeration page with **paypal**. For domestic participants, another option will be noticed. 
+The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*. There is an additional fee for *excursion* (optional), and detailed information will be annouced later. *Additional banquet ticket* for an accompanying person is EUR 110. The registration fee can be paid on the registeration page with **paypal**. For domestic participants, another option will be noticed.
 
 
 ## Cancellation Policy
@@ -67,10 +67,10 @@ The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *c
 
 입금 요청서의 등록비는 한화(South Korean Won: KRW)로 표기되며, 위 유로화와 별도로 책정되었습니다.
 
-|        분류                     |   등록비(오프라인 )   |   등록비(온라인)    |                               |
-|:------------------------------:|:-----------------:|:----------------:|-------------------------------|
-|                                |                   |                  | 2022년 2월 10일 등록 시작         |
-| Early Registration             | KRW 550,000       | KRW 180,000      | **2022년 4월 30일까지** indico 요청 <br> 5월 7일까지 입금가능  |
-| Registration                   | KRW 650,000       | KRW 180,000      | **2022년 5월 20일까지** indico 요청 <br> 5월 27일까지 입금가능 |
-| On-site Registration           | 불가능              |                  |                               |
-| Accompanying Persons           | 불가능              | KRW 150,000      |                               |
+|        분류     |   등록비(오프라인 )   |   등록비(온라인)    |                               |
+|:-------------:|:-----------------:|:----------------:|-------------------------------|
+|               |                   |                  | 2022년 2월 10일 등록 시작         |
+| 조기 등록       | KRW 550,000       | KRW 180,000      | **2022년 4월 30일까지** indico 요청 <br> 5월 7일까지 입금가능  |
+| 일반 등록       | KRW 650,000       | KRW 180,000      | **2022년 5월 20일까지** indico 요청 <br> 5월 27일까지 입금가능 |
+| 현장 등록       | 불가능              |                  |                               |
+| 동반인 연회 참석비 | 불가능              | KRW 150,000      |                               |
