@@ -18,13 +18,13 @@ order: 5
 }
 
 .green {background-color: #4CAF50;}
-.blue {background-color: #00aaff;}
+.blue {background-color: #1d83c3;}
 </style>
 
-Related to COVID-19 (SARS-CoV-2), Republic of Korea has quarantine and hygine rules.
+Related to COVID-19 (SARS-CoV-2), the Republic of Korea has quarantine and hygiene rules.
 
-You can see the information about quarantine from several airlines which has flight to Korea, e.g. Korean Air.
+You can see the information about quarantine from several airlines which have flights to Korea, e.g. Korean Air.
 
-For the informations, please visit the webpage of airline and Korean Ambassy of departing countries.
+For the information, please visit the webpage of the airline and Korean Embassy of departing countries.
 
-<a href="https://www.koreanair.com/ch/en/travel-update/covid19/travel-restriction/korea" class="blue button" target="_blank">Information from Korean Air</a>
+<a href="https://www.koreanair.com/ch/en/travel-update/covid19/travel-restriction/korea" class="blue button" target="_blank" style="border-radius: 10px;">Information from Korean Air</a>

@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-The Paradise Hotel (Conference Venue) is 5-stars hotel which locates right in front of the Haeundae beach. 
+The Paradise Hotel (Conference Venue) is a 5-stars hotel located right in front of Haeundae beach.
 
 ## Room Types
 
@@ -114,7 +114,7 @@ The Paradise Hotel (Conference Venue) is 5-stars hotel which locates right in fr
 </div>
 </div>
 <br>
-For more information on the hotel, please go to the [website](https://www.busanparadisehotel.co.kr/front/hotel/room/view?RR_ROOM_CATEGORY=DELUXE&RR_ROOM_TYPE=DELUXE_CITY&RR_LOCATION_TYPE=MAIN_BUILDING){:target="_blank"}.
+For more information on the hotel, please visit to the [website](https://www.busanparadisehotel.co.kr/front/hotel/room/view?RR_ROOM_CATEGORY=DELUXE&RR_ROOM_TYPE=DELUXE_CITY&RR_LOCATION_TYPE=MAIN_BUILDING){:target="_blank"}.
 
 ## Special Offers
 The Paradise Hotel has a special price offer for conference participants.
@@ -168,15 +168,15 @@ The prices are for one night. If the period includes Saturday, the Saturday surc
 
 You can apply offer after / or during registration of SQM2022. 
 
-* If you want to apply during registration  
-  (If you're not visa waiver and needed the invitation letter. And you'll stay at Paradise Hotel)
-  * At the end of section "Invitation Letter" of registration form, there's URL to download docx file to apply offer.
-  * Download the form, Fill the form and send to Reservation Office of Paradise Hotel ([res@paradisehotel.co.kr](mailto:res@paradisehotel.co.kr))
+* If you want to apply during registration
+  (If you’re not visa waiver and needed the invitation letter. And you’ll stay at Paradise Hotel)
+  * At the end of section “Invitation Letter” of the registration form, there’s a URL to download the docx file to apply offer.
+  * Download the form, Fill out the form and send it to Reservation Office of Paradise Hotel([res@paradisehotel.co.kr](mailto:res@paradisehotel.co.kr))
 * If you want to apply after registration
   * After registration (including payment), the menu **"Special Offer of Paradise Hotel"** is appeared (only registered user can see)
   * You can choose how to reserve the hotel. (Follow the procedure offered.)
 
-This is important date related to apply offer.
+These are important dates related to applying for the offer.
 
 |                       | Important Date |
 |:---------------------:|:--------------:|

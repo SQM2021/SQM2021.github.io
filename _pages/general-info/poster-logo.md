@@ -8,7 +8,7 @@ order: 5
 
 The four types of logos can be downloaded via the following link.
 
-Download all in pdf, png, jpg, ai (.zip): 
+Download all in pdf, png, jpg(.zip): 
 <a href="https://sqm2022.pusan.ac.kr/assets/files/sqm2022-logo/sqm2022LogoPack.zip" download>PNU Server</a>, 
 <a href="https://sqm2022.web.cern.ch/assets/files/sqm2022-logo/sqm2022LogoPack.zip" download>CERN Server</a>, 
 <a href="https://sqm2022.github.io/assets/files/sqm2022-logo/sqm2022LogoPack.zip" download>GitHub Server</a>

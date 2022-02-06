@@ -46,14 +46,16 @@ order: 8
 .centered {
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  left: 0%;
+  right: 50%;
+
+  transform: translate(55%, -200%);
 }
 
 
 </style>
 
-## 1st Bulletin (10. Dec. 2021)
+## 1st Bulletin (10 Dec. 2021)
 
 Show *pdf* in new tab (360KB): 
 <a href="https://sqm2022.pusan.ac.kr/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="_blank">PNU Server</a>, 
@@ -61,8 +63,6 @@ Show *pdf* in new tab (360KB):
 <a href="https://sqm2022.github.io/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="_blank">GitHub Server</a>
 
 <!-- *Preview Image* -->
-<div class="container" style="width:65%;">
-<a href="/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="blank_"> <img src="/assets/files/bulletins/img/set-10dec2021/SQM2022-bulletin-10dec2021_p1.png" style="width:100%;"> </a>
-<div class="centered" style="font-size:30pt; line-height:45pt; text-align:center; vertical-align:center;">
-<a href="/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" style="background-color:#ffffff" target="blank_">Clock Image to Download Bulletins</a></div>
+<div class="container" style="width:65%; margin-left:0;">
+<a href="/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="blank_"> <img src="/assets/files/bulletins/img/set-10dec2021/SQM2022-bulletin-10dec2021_p1.png" style="width:100%;"> <div class="centered" style="font-size:20pt; line-height:28pt; text-align:left; vertical-align:center;">Click Image to<br>Download 1st Bulletin</div> </a>
 </div>

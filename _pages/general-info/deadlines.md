@@ -30,5 +30,5 @@ th, td {
 | **Hotel reservation deadline (special offer)**       | 10 May 2022    |              |
 | **Registration deadline**                            | 20 May 2022    |              |
 | Final Announcement                                   | 10 Jun 2022    |              |
-| ***SQM2022 Conference dates***                       | 13-17 Jun 2022 |              |
+| ***SQM 2022 Conference dates***                      | 13-17 Jun 2022 |              |
  

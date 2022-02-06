@@ -4,9 +4,9 @@ title: "Invitation Letter"
 order: 3
 ---
 
-Participants could request an invitation letter for visa, etc, if it is required to participate to this conference. This does not imply any discount on the fee, neither other expenses coverage. The request form for inviation letter is on the registration form in the indico page. **For those who completed registration and payment processes, an invitation letter will be sent via email.**
+Participants could request an invitation letter for a visa if it is required to participate in this conference. This does not imply any discount on the fee, or other expenses coverage. The request can be done by filling out the dedicated form in the registration process. **The invitation letter will be sent via email to those who completed registration and payment processes.**
 
-Following information is need to issue invitation letter, you should fill in the registration form.
+The following information is needed to issue an invitation letter ***(for visa)***, you should fill in the registration form.
 
 - Full Name
 - Full Name in chinsese charactor (if available)
@@ -14,7 +14,9 @@ Following information is need to issue invitation letter, you should fill in the
 - Nationality
 - Gender (on passport)
 - Passport Number
-- Country issuing the passport
-- Local address you will stay in republic of Korea
+- The Country issuing the passport
+- The Local address you will stay in Republic of Korea
 
-If you have other question for invitation letter, please email to [sqm2022@hipex.phys.pusan.ac.kr](mailto:sqm2022@hipex.phys.pusan.ac.kr)
+In case of invitation letter not for visa, you can choose the information that will be indicated. Please leave fields empty which is not needed for your invitation letter.
+
+If you have other questions for the invitation letter, please contact to [sqm2022@hipex.phys.pusan.ac.kr](mailto:sqm2022@hipex.phys.pusan.ac.kr)
