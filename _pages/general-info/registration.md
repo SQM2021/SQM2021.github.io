@@ -36,7 +36,7 @@ tr {
 <a href="https://indico.cern.ch/event/1037821/registrations/" class="button" target="_blank">GO TO REGISTRATION</a>
 <!-- [](){:} -->
 
-Registration will open on **10 February 2022** and will continue through **20 May 2022**: it will be handled by the CERN Indico system. If you do not have a valid CERN account, you can create a lightweight account [here](https://account.cern.ch/account/Externals/RegisterAccount.aspx).
+Registration will open on **10 February 2022** and will continue through **20 May 2022**: it will be handled by the CERN Indico system. If you do not have a valid CERN account, you can create a lightweight account [here](https://account.cern.ch/account/Externals/RegisterAccount.aspx){:target="_blank"}.
 
 ## Registration Fee
 
