@@ -6,7 +6,7 @@ order: 5
 
 ## Logo
 
-The four types of logos can be downloaded via the following link.
+You can download the four types of logos via the following link.
 
 Download all in pdf, png, jpg(.zip): 
 <a href="https://sqm2022.pusan.ac.kr/assets/files/sqm2022-logo/sqm2022LogoPack.zip" download>PNU Server</a>, 

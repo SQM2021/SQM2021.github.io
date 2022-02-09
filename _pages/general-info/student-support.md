@@ -35,17 +35,17 @@ These are important dates related to student support.
 
 ### Applying Student Support
 
-1. Fill out the [registration form](https://indico.cern.ch/event/1037821/registrations/) of SQM 2022
-2. At the “Student Support” section placed in the end of the form, select “**yes**” for “*I will apply for student support*”
+1. Fill out the [registration form](https://indico.cern.ch/event/1037821/registrations/) for SQM 2022
+2. At the “Student Support” section placed at the end of the form, select “**yes**” for “*I will apply for student support.*”.
 3. Upload your CV and Cover Letter in Google form in the link below.
   [Link to Student Support Form](https://forms.gle/H922FHFKi4YDA5se6)
    * The CV should contain...
       * Who you are
-      * Your current affliation
+      * Your current affiliation
       * Current status and last status of your curriculum
-        * If you’re Ph.D, the year when you get the Ph.D degree.
-   * The Cover letter should contain...
-      * What you are doing
+        * If you’re Ph.D., the year when you get the Ph.D. degree.
+   * The Cover letter should contain
+      * Your research activity 
       * Expectation to SQM2022 conference
 4. Ask your supervisor to send the reference letter to SQM 2022 Local Organizing Committee.
 
@@ -60,6 +60,6 @@ These are important dates related to student support.
 1. Send the reference letter to [sqm2022@hipex.phys.pusan.ac.kr](mailto:sqm2022@hipex.phys.pusan.ac.kr)
 2. The title of the e-mail should contain “SQM2022 Student Support Reference Letter” and *[applicant's name]*.  
    For Example, *"SQM2022 Student Support Reference Letter, Jane Doe"*
-3. The referenece letter should contain...
-   * Who you are
-   * Your affliation
+3. The reference letter should contain
+   * Your name
+   * Your affiliation

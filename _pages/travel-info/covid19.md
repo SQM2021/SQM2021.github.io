@@ -23,7 +23,7 @@ order: 5
 
 Related to COVID-19 (SARS-CoV-2), the Republic of Korea has quarantine and hygiene rules.
 
-You can see the information about quarantine from several airlines which have flights to Korea, e.g. Korean Air.
+You can see the quarantine information from several airlines that have flights to Korea, e.g., Korean Air.
 
 For the information, please visit the webpage of the airline and Korean Embassy of departing countries.
 

@@ -17,14 +17,14 @@ order: 4
     }
 </style>
 
-For detailed information about VISA requirements for travelling to Korea, please visit the Korea visa portal website. [https://www.visa.go.kr/main/openMain.do](https://www.visa.go.kr/main/openMain.do){: target="_black"}  
+Please visit the Korea visa portal website for detailed information about VISA requirements for traveling to Korea. [https://www.visa.go.kr/main/openMain.do](https://www.visa.go.kr/main/openMain.do){: target="_black"}  
 You can also use the [Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10101){:target="_blank"} in Korea Visa Portal to find a proper visa to enter the Republic of Korea.
 
 <!-- There were 66 visa-waiver contries and 45 visa-free contries. But from 13 April 2020, visa privileges are restricted in the 56 visa-waiver contries and 34 visa-free contries because of Covid-19. The list of restricted and allowed contries is [here](/assets/img/slider/visainformation.pdf). -->
 
 ## Available Visa Option
 
-Following is your available visa to apply. You can see the availability Visa Waiver Program in [Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10101){:target="_blank"}
+Following is your available visa to apply. You can see the availability Visa Waiver Program in [Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10101){:target="_blank"}.
 
 | Visa Code | Description | Note |
 |:---------:|:------------|------|

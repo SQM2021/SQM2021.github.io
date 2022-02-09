@@ -114,13 +114,13 @@ The Paradise Hotel (Conference Venue) is a 5-stars hotel located right in front 
 </div>
 </div>
 <br>
-For more information on the hotel, please visit to the [website](https://www.busanparadisehotel.co.kr/front/hotel/room/view?RR_ROOM_CATEGORY=DELUXE&RR_ROOM_TYPE=DELUXE_CITY&RR_LOCATION_TYPE=MAIN_BUILDING){:target="_blank"}.
+For more information on the hotel, please visit the [website](https://www.busanparadisehotel.co.kr/front/hotel/room/view?RR_ROOM_CATEGORY=DELUXE&RR_ROOM_TYPE=DELUXE_CITY&RR_LOCATION_TYPE=MAIN_BUILDING){:target="_blank"}.
 
 ## Special Offers
 The Paradise Hotel has a special price offer for conference participants.
 
 ***All currency is KRW (Korean Won)***  
-***All prices include 10% service charge and 10% government tax***
+***All prices include a 10% service charge and 10% government tax.***
 
 <style>
     td, th{
@@ -152,28 +152,28 @@ The prices are for one night. If the period includes Saturday, the Saturday surc
 **Notes**
 
 * The special offers are only for the conference participants.
-* The rates include 10% service charge and 10% government tax.
-* Check-in time is 3 p.m, and check-out time is 11:30 a.m. All late checkouts will be charged with following fee:  
-  - Until 3 p.m. : 50% of the room rate
-  - After 3 p.m. : 100% of the room rate
-* FREE ACCESS : Swimming pool, Fitness center, Play station zone, Kids zone
-* 50% Special Discount on admission to Sauna and Outdoor hot spring ‘Cimer’
+* The rates include a 10% service charge and 10% government tax.
+* Check-in time is 3 p.m, and checkout time is 11:30 a.m. All late checkout will be charged with the following fee:  
+  - Until 3 p.m.: 50% of the room rate
+  - After 3 p.m.: 100% of the room rate
+* FREE ACCESS: Swimming pool, Fitness center, Play station zone, Kids zone
+* 50% Special Discount on admission to Sauna and Outdoor hot spring ‘Cimer’.
 * CANCELLATION POLICY
-  - 8 days prior to Arrival date : Free cancellation
-  - From 7 days to 4 days prior to Arrival date : 30% of the Room charge
-  - From 3 days to 2 days prior to Arrival date : 50% of the Room charge
-  - From 1 days or less prior to Arrival date : No refund
+  - 8 days prior to arrival date: Free cancellation
+  - From 7 days to 4 days prior to arrival date: 30% of the Room charge
+  - From 3 days to 2 days prior to arrival date: 50% of the Room charge
+  - From 1 day or less prior to arrival date: No refund
 
 ### How to Apply Offer
 
 You can apply offer after / or during registration of SQM2022. 
 
 * If you want to apply during registration
-  (If you’re not visa waiver and needed the invitation letter. And you’ll stay at Paradise Hotel)
+  (If you do not have a visa waiver and need an invitation letter. And you’ll stay at Paradise Hotel)
   * At the end of section “Invitation Letter” of the registration form, there’s a URL to download the docx file to apply offer.
-  * Download the form, Fill out the form and send it to Reservation Office of Paradise Hotel([res@paradisehotel.co.kr](mailto:res@paradisehotel.co.kr))
+  * Download the form, Fill out the form and send it to the Reservation Office of Paradise Hotel([res@paradisehotel.co.kr](mailto:res@paradisehotel.co.kr))
 * If you want to apply after registration
-  * After registration (including payment), the menu **"Special Offer of Paradise Hotel"** is appeared (only registered user can see)
+  * After registration (including payment), the menu **"Special Offer of Paradise Hotel"** is appeared (only registered users can see it)
   * You can choose how to reserve the hotel. (Follow the procedure offered.)
 
 These are important dates related to applying for the offer.
@@ -182,4 +182,4 @@ These are important dates related to applying for the offer.
 |:---------------------:|:--------------:|
 | Start Applying Offer  | 10 Feb 2022    | 
 | Finish Applying Offer | 10 May 2022    | 
-| **First-Order, First-Serve basis.** |      |
+| **First-Order, First-Serve basis** |      |
