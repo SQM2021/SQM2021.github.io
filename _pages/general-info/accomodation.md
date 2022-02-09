@@ -4,8 +4,10 @@ title: "Accommodation"
 order: 4
 ---
 
+There are many accomodations near the Haeundae beach (in wide cost-range). You can find the several hotels in other website. (i.e. Hotels.com, Expedia, etc.)
 
 The Paradise Hotel (Conference Venue) is a 5-stars hotel located right in front of Haeundae beach.
+The Paradise hotel provides special offer for participants of SQM2022, you can apply the offers for accomodation. [go to paragraph](#specialoffer)
 
 ## Room Types
 
@@ -117,6 +119,7 @@ The Paradise Hotel (Conference Venue) is a 5-stars hotel located right in front 
 For more information on the hotel, please visit the [website](https://www.busanparadisehotel.co.kr/front/hotel/room/view?RR_ROOM_CATEGORY=DELUXE&RR_ROOM_TYPE=DELUXE_CITY&RR_LOCATION_TYPE=MAIN_BUILDING){:target="_blank"}.
 
 ## Special Offers
+{:#specialoffer}
 The Paradise Hotel has a special price offer for conference participants.
 
 ***All currency is KRW (Korean Won)***  
