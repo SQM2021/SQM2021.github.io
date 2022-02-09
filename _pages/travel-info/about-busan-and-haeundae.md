@@ -4,9 +4,9 @@ title: "About Busan and Haeundae"
 order: 2
 ---
 
-This post refers to [VISIT BUSAN](https://www.visitbusan.net/en/index.do){:target="_blank"} homepage introducing landmarks in Busan to visitors. You can find a useful brochure for tourists at [here](https://www.visitbusan.net/board/list.do?boardId=BBS_0000007&menuCd=DOM_000000303001000000){:target="_blank"}.
+This post refers to the [VISIT BUSAN](https://www.visitbusan.net/en/index.do){:target="_blank"} homepage introducing landmarks in Busan to visitors. You can find a useful brochure for tourists [here](https://www.visitbusan.net/board/list.do?boardId=BBS_0000007&menuCd=DOM_000000303001000000){:target="_blank"}.
 
-Now we hereby introduce a few places. The nearest metro station and time to get to the place from the metro station by walk or bus also noted. The circled numbers beside name of metro station is the metro-line number. (Ⓚ: Donghae-Line) <!--(Ⓚ: Donghae-Line, Ⓖ: Busan-Gimhae Light Transit)-->
+Now we introduce a few places. The nearest metro station and time to get to the place from the metro station by walk or bus are also noted. The circled numbers beside the metro station's name are the metro-line number. (Ⓚ: Donghae-Line) <!--(Ⓚ: Donghae-Line, Ⓖ: Busan-Gimhae Light Transit)-->
 <!-- ①②③④ⓀⒼ -->
 
 ## Tourists' Places
@@ -24,7 +24,7 @@ Nearest Station: Geumnyeonsan Station(②, 금련산), Walk: ~10 min.
 
 ![Gwanganri](/assets/img/introduction/Gwangan.jpg){: width="100%"}
 
-  Gwangalli Beach is a famous beach and one of Busan’s representative hot spots together with Gwangandaegyo Bridge. It is the closest beach to the city center and also a trendy meeting place for Busan’s youth. Along with its white sandy beach, Gwangalli is filled with diverse attractions such as restaurants serving delicious foods, coffee shops with an open view of the sea, exotic stores hidden in alleyways, and the Namcheon-dong Cherry Blossom Street, which shines with pink cherry blossoms in spring.
+  Gwangalli Beach is a famous beach and one of Busan’s representative hot spots, together with Gwangandaegyo Bridge. It is the closest beach to the city center and also a trendy meeting place for Busan’s youth. Along with its white sandy beach, Gwangalli is filled with diverse attractions such as restaurants serving delicious foods, coffee shops with an open view of the sea, exotic stores hidden in alleyways, and the Namcheon-dong Cherry Blossom Street, which shines with pink cherry blossoms in spring.
 
 ### Dadaepo (다대포)
 Nearest Station: Dadaepo Beach Station(①, 다대포), Walk: ~5 min.
@@ -45,7 +45,7 @@ Nearest Station: Choryang Station(①, 초량), Bus: ~1 hr.
 
 ![Taejongdae](/assets/img/introduction/Taejongdae.jpg){: width="100%"}
     
-  This place allows you to walk along the green forest path and view the blue ocean simultaneously. The multicolored rocky coast boasts its beauty formed by years of crashing waves. We’re talking about Taejongdae Park at the southern end of Yeongdo, Busan. Taejongdae was named after King Taejong Muyeol of Silla, who used to stop by the region and practice archery as he was mesmerized by the beauty of the landscape. Taejongdae Park, where unique rocks are formed and visitors are greeted by the dense forest surrounded by the deep blue ocean, is a leading travel destination in Korea.
+  This place allows you to walk along the green forest path and view the blue ocean simultaneously. The multicolored rocky coast boasts its beauty formed by years of crashing waves. We’re talking about Taejongdae Park at the southern end of Yeongdo, Busan. Taejongdae was named after King Taejong Muyeol of Silla, who used to stop by the region and practice archery as he was mesmerized by the beauty of the landscape. Taejongdae Park, where unique rocks are formed, and visitors are greeted by the dense forest surrounded by the deep blue ocean, is a leading travel destination in Korea.
 
 ### Songdo (송도)
 Nearest Station: Jungang Station(①, 중앙), Bus: ~30 min.
@@ -59,7 +59,7 @@ Nearest Station: Beomeosa Station(①, 범어사), Bus: ~30 min.
 
 ![Beomeosa](/assets/img/introduction/Beomeosa.jpg){: width="100%"}
     
-  Beomeosa Temple in Geumjeong-gu, Busan, is the third largest temple in the Yeongnam area following Haeinsa Temple and Tongdosa Temple. Built during the reign of Munmu of Silla, it has become famous as a Buddhist temple that has historically nurtured many Buddhist monks. Located at Geumjeongsan Mountain, the temple boasts a beautiful valley and outstanding mountains and is crowded all year around.
+  Beomeosa Temple in Geumjeong-gu, Busan, is the third-largest temple in the Yeongnam area following Haeinsa Temple and Tongdosa Temple. Built during the reign of Munmu of Silla, it has become famous as a Buddhist temple that has historically nurtured many Buddhist monks. Located at Geumjeongsan Mountain, the temple boasts a beautiful valley and outstanding mountains and is crowded all year around.
 
 ### Dongnaeeupseong (동래읍성)
 Nearest Station: Myeongnyun Station(①, 명륜), Walk: ~30 min., Bus: ~15 min.
@@ -92,13 +92,13 @@ Nearest Station: Toseong Station(①, 토성), Walk: ~30 min.
 ### Shinsegae Centumcity(신세계 센텀시티)
 Nearest Station: CentumCity Station(②, 센텀시티)
 ![](/assets/img/introduction/shinsegae.jpg){: width="100%"}
-Shinsegae Centumcity is the largest department store in the earth. It has not only general goods in department store (i.e. clothings, cosmetics, jewlery, luxuries), but also duty-free store, spa, ice link, cinema, cafeteria, cafe, restaurants, supermarket, and bookstore. To do all things in the Shinsegae Centumcity, maybe you cannot finish in one day. 
+Shinsegae Centumcity is the largest department store on the earth. It has general goods in the department store (i.e., clothing, cosmetics, jewelry, luxuries) and duty-free stores, spa, ice link, cinemas, cafeterias, cafes, restaurants, supermarkets, and bookstores. To do all things in the Shinsegae Centumcity, maybe you cannot finish in one day. 
 
 ### Lotte World Adventure & OSIRIA Tourist Complex (롯데 월드 어드벤처, 오시리아 관광단지)
 (Now under construction. The construction will be finished at March 2022)  
 Nearest Station: OSIRIA Station(Ⓚ, 오시리아), Walk: ~15 min.
 ![](/assets/img/introduction/LotteWorldBusan.png){: width="100%"}
 
-  The Lotte World Adventure is the only theme park at Busan (in 2022). The park has 17 of riding attractions in 158,000m<sup>2</sup>. Several parades and performances also will be held. The sector the park placed is "OSIRIA tourist complex". It has many places to go, i.e. IKEA, Lotte Premium Outlet (Shopping mall), Busan Science Museum, Hilton Hotel and Ananti Cove (Resort Area), etc.
+  The Lotte World Adventure is the only theme park at Busan (in 2022). The park has 17 riding attractions in 158,000m<sup>2</sup>. Several parades and performances also will be held. The sector the park placed is "OSIRIA tourist complex". It has many places to go, i.e., IKEA, Lotte Premium Outlet (Shopping mall), Busan Science Museum, Hilton Hotel and Ananti Cove (Resort Area), etc.
 
 You can find more tourists' places in [visitbusan.net](https://www.visitbusan.net/en/index.do){:target="_blank"}.

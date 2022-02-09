@@ -48,7 +48,7 @@ Registration will open on **10 February 2022** and will continue through **20 Ma
 | On-site Registration           | Not Available     |                  |                               |
   
 <br>
-The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*. *An Additional including welcome reception and banquet* for an accompanying person is EUR 110. The registration fee can be paid on the registration page with **PayPal**. For domestic participants, a **bank tranfer is the only valid option**. [Go to "Payment of Domestic Participants"](#banktransfer)
+The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*. *An Additional including welcome reception and banquet* for an accompanying person is EUR 110. The registration fee can be paid on the registration page with **PayPal**. For domestic participants, a **bank transfer is the only valid option**. [Go to "Payment of Domestic Participants"](#banktransfer)
 
 
 ## Cancellation Policy

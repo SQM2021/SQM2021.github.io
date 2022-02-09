@@ -4,7 +4,7 @@ title: "Conference Venue"
 order: 3
 ---
 
-The conference will be held at *Paradise Hotel Busan*, with panorama view of the scenic beauty of Haeundae Beach, which is a five-star hotel in Busan with 532 guest rooms. With stylish and cozy rooms, a high-end ocean spa and Korea's first luxury all-day dining restaurant, the hotel is ideal for every guest, whether for business or for pleasure. For further details on *Paradise Hotel Busan*, please visit the following webpage: [https://www.busanparadisehotel.co.kr/front](https://www.busanparadisehotel.co.kr/front){:target="_blank"}
+The conference will be held at *Paradise Hotel Busan*, with a panorama view of the scenic beauty of Haeundae Beach, which is a five-star hotel in Busan with 532 guest rooms. With stylish and cozy rooms, a high-end ocean spa and Korea's first luxury all-day dining restaurant, the hotel is ideal for every guest, whether for business or pleasure. For further details on *Paradise Hotel Busan*, please visit the following webpage: [https://www.busanparadisehotel.co.kr/front](https://www.busanparadisehotel.co.kr/front){:target="_blank"}
 
 
 ## Floor plan
@@ -17,7 +17,7 @@ The conference will be held at *Paradise Hotel Busan*, with panorama view of the
 
 ![Annex Garden](/assets/img/slider/annex_garden.jpg){: width="100%"}
 
-  The Paradise’s outdoor garden with the Haeundae Beach and green landscaping.
+  Paradise’s outdoor garden is with the Haeundae Beach and green landscaping.
   It offers memories of a summer night with a new concept for each season.
 
 - Grand Ballroom (Planary & Parallel sessions, Banquet)
@@ -43,4 +43,4 @@ The conference will be held at *Paradise Hotel Busan*, with panorama view of the
 
 ![Capri Room](/assets/img/slider/cafeteria.jpg){: width="100%"}
 
-  It is a medium-sized banquet hall boasting a beautiful view of the Haeundae Sea, with three-sided full-glass windows. It is also equipped with advanced devices such as various LED lights and large screen. Depending on the event, such as seminars or conventions, the room can offer a professional and luxurious ambience.
+  It is a medium-sized banquet hall boasting a beautiful view of the Haeundae Sea, with three-sided full-glass windows. It is also equipped with advanced devices such as various LED lights and large screens. Depending on the event, such as seminars or conventions, the room can offer a professional and luxurious ambiance.
