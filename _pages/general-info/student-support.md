@@ -57,7 +57,7 @@ These are important dates related to student support.
 
 ## For Supervisor
 
-1. Send the reference letter to [sqm2022@hipex.phys.pusan.ac.kr](mailto:sqm2022@hipex.phys.pusan.ac.kr)
+1. Send the reference letter to [sqm2022-student@hipex.phys.pusan.ac.kr](mailto:sqm2022-student@hipex.phys.pusan.ac.kr)
 2. The title of the e-mail should contain “SQM2022 Student Support Reference Letter” and *[applicant's name]*.  
    For Example, *"SQM2022 Student Support Reference Letter, Jane Doe"*
 3. The reference letter should contain
