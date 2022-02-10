@@ -46,6 +46,18 @@ order: 8
 
 </style>
 
+## [LATEST] 2nd Bulletin (10 Feb. 2021) 
+
+Show *pdf* in new tab (553KB): 
+<a href="https://sqm2022.pusan.ac.kr/assets/files/bulletins/SQM2022-Second_Bulletin-10Feb2022.pdf" target="_blank">PNU Server</a>, 
+<a href="https://sqm2022.web.cern.ch/assets/files/bulletins/SQM2022-Second_Bulletin-10Feb2022.pdf" target="_blank">CERN Server</a>, 
+<a href="https://sqm2022.github.io/assets/files/bulletins/SQM2022-Second_Bulletin-10Feb2022.pdf" target="_blank">GitHub Server</a>
+
+<!-- *Preview Image* -->
+<div class="container" style="width:65%; margin-left:0;">
+<a href="/assets/files/bulletins/SQM2022-Second_Bulletin-10Feb2022.pdf" target="blank_"> <img src="/assets/files/bulletins/img/set-10feb2022/SQM2022-Second_Bulletin-10Feb2022_Page_0.png" style="width:100%;" alt="Click here to download 2nd bulletin"> </a>
+</div>
+
 ## 1st Bulletin (10 Dec. 2021)
 
 Show *pdf* in new tab (360KB): 
