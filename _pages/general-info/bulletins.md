@@ -43,15 +43,6 @@ order: 8
   text-align: center;
   color: white;
 }
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 0%;
-  right: 50%;
-
-  transform: translate(55%, -200%);
-}
-
 
 </style>
 
@@ -64,5 +55,5 @@ Show *pdf* in new tab (360KB):
 
 <!-- *Preview Image* -->
 <div class="container" style="width:65%; margin-left:0;">
-<a href="/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="blank_"> <img src="/assets/files/bulletins/img/set-10dec2021/SQM2022-bulletin-10dec2021_p1.png" style="width:100%;"> <div class="centered" style="font-size:20pt; line-height:28pt; text-align:left; vertical-align:center;">Click Image to<br>Download 1st Bulletin</div> </a>
+<a href="/assets/files/bulletins/SQM2022-bulletin-10dec2021.pdf" target="blank_"> <img src="/assets/files/bulletins/img/set-10dec2021/SQM2022-bulletin-10dec2021_p0.png" style="width:100%;" alt="Click here to download 1st bulletin"> </a>
 </div>
