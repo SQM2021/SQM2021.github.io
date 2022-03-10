@@ -18,7 +18,7 @@ th, td {
 | Name                                                 | Date           | Note         |
 |:-----------------------------------------------------|:---------------|:-------------|
 | 1st Announcement                                     | 10 Dec 2021    |              |
-| 2nd Announcement                                     | 10 Feb 2022    | (Scheduled)  |
+| 2nd Announcement                                     | 10 Feb 2022    |              |
 | Registration and student support request opening     | 10 Feb 2022    |              |
 | Abstract submission opening                          | 10 Feb 2022    |              |
 | **Abstract submission deadline**                     | 15 Mar 2022    |              |

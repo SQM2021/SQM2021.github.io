@@ -46,7 +46,7 @@ order: 8
 
 </style>
 
-## [LATEST] 2nd Bulletin (10 Feb. 2021) 
+## [LATEST] 2nd Bulletin (10 Feb. 2022) 
 
 Show *pdf* in new tab (553KB): 
 <a href="https://sqm2022.pusan.ac.kr/assets/files/bulletins/SQM2022-Second_Bulletin-10Feb2022.pdf" target="_blank">PNU Server</a>, 
