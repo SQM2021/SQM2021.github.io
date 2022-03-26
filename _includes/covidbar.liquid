@@ -20,6 +20,12 @@
         margin: 0;
       }
 
+      .notification-top-bar b {
+        padding: 0;
+        margin: 0;
+        vertical-align: middle;
+      }
+
       .notification-top-bar a.button {
         background: #FFF;
         border: none;
@@ -28,7 +34,7 @@
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 16px;
+        font-size: 1em;
         font-weight: bold;
         margin: 0px 0px;
         cursor: pointer;
@@ -39,7 +45,7 @@
 </style>
 
 <div class="notification-top-bar">
-    <p><b>Quarantine after entering Republic of Korea will be waived for full-vaccinated people.</b>&nbsp;&nbsp;&nbsp;&nbsp;<small><a class="button" href="/pages/travel-info/covid19/">Go to Detail</a></small></p>
+  <p><i style="font-size:1em" class="fa fa-exclamation-circle" aria-hidden="true" alt="notice"></i> <b>Quarantine after entering Republic of Korea will be waived for full-vaccinated people.</b>&nbsp;&nbsp;&nbsp;&nbsp;<small><a class="button" href="/pages/travel-info/covid19/">Go to Detail</a></small></p>
 </div>
 
 {% endif %}
