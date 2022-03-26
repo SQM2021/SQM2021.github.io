@@ -169,15 +169,25 @@ The prices are for one night. If the period includes Saturday, the Saturday surc
 
 ### How to Apply Offer
 
-You can apply offer after / or during registration of SQM2022. 
+A special offer can be given when you reserve with (1) a dedicated web-based reservation tool or (2) special reservation form.
 
-* If you want to apply during registration
+**With Web-based Reservation Tool**  
+* Access the [web-based reservation tool](https://www.busanparadisehotel.co.kr/front/groupReservation/mice_step1){:target="_blank"}
+* Use Group Code : *5343*
+* You can also see the manual for applying the special offer : [Download Link(.pdf)](/assets/files/SQM2022-paradisehotel-ReservationOnWebsite.pdf){:target="_blank"}
+
+**With Special Reservation Form (paper-based)**
+* Download the form
+    * [Download Link(.docx)](/assets/files/SQM2022-paradisehotel-Reservation-Form.docx){:download="SQM2022-hotel-form.docx"} or [Download Link(.pdf)](/assets/files/SQM2022-paradisehotel-Reservation-Form.pdf){:download="SQM2022-hotel-form.pdf"}
+* Fill out the form and send it to the Reservation Office of Paradise Hotel([res@paradisehotel.co.kr](mailto:res@paradisehotel.co.kr))
+
+<!-- * If you want to apply during registration
   (If you do not have a visa waiver and need an invitation letter. And you’ll stay at Paradise Hotel)
   * At the end of section “Invitation Letter” of the registration form, there’s a URL to download the docx file to apply offer.
   * Download the form, Fill out the form and send it to the Reservation Office of Paradise Hotel([res@paradisehotel.co.kr](mailto:res@paradisehotel.co.kr))
 * If you want to apply after registration
   * After registration (including payment), the menu **"Special Offer of Paradise Hotel"** is appeared (only registered users can see it)
-  * You can choose how to reserve the hotel. (Follow the procedure offered.)
+  * You can choose how to reserve the hotel. (Follow the procedure offered.) -->
 
 These are important dates related to applying for the offer.
 
