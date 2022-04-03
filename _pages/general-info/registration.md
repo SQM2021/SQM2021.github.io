@@ -40,6 +40,8 @@ Registration will open on **10 February 2022** and will continue through **20 Ma
 
 ## Registration Fee
 
+{:#fee}
+
 |        Category                |   Fee (Offline)   |   Fee (Online)   |                               |
 |:------------------------------:|:-----------------:|:----------------:|-------------------------------|
 |                                |                   |                  | Opens on **10 February 2022** |
@@ -51,11 +53,31 @@ Registration will open on **10 February 2022** and will continue through **20 Ma
 The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*. *An Additional including welcome reception and banquet* for an accompanying person is EUR 110. The registration fee can be paid on the registration page with **PayPal**. For domestic participants, a **bank transfer is the only valid option**. [Go to "Payment of Domestic Participants"](#banktransfer)
 
 
+## Upgrade Option
+
+{:#upgrade}
+
+| **Registration fee paid already?** | Necessary action |
+|:------------------------------:|:----------------:|
+| Yes | Fill out the form for on-site participation<br>and Pay the fee on additional amount of the registration.<br>Pleses, email us! ([sqm2022@hipex.phys.pusan.ac.kr](mailto:sqm2022@hipex.phys.pusan.ac.kr))
+| No |  Cancel the present registration,<br>then make a new registration as an “offline participant”. |
+
+
+**Extra Fee for the Upgrade from Online to Offline**
+
+| Upgrade Fee | Period |
+|:--------:|:-------:|
+| EUR 270 | until **30 April 2022** |
+| EUR 350 | since **1 May 2022**, until **20 May 2022** |
+| Not available | after **20 May 2022** |
+
+
+
 ## Cancellation Policy
 
 
 | Reimbursement Rule | Period                    |
-|:-----------------: |:--------------------------|
+|:-----------------: |:-------------------------:|
 | 95% (deduct processing fee) | Until **30 April 2022**   |
 | 50%                | Until **20 May 2022**     |
 | Not Refundable     | Since **21 May 2022**     |
@@ -81,3 +103,12 @@ The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *c
 | 일반 등록       | KRW 650,000       | KRW 200,000      | **2022년 5월 20일까지** indico 요청 <br> 5월 27일까지 입금가능 |
 | 현장 등록       | 불가능              |                  |                               |
 | 동반인 연회 참석비 | KRW 150,000      |                  |                               |
+
+
+온라인 등록에서, 오프라인 등록으로 변경할 시 결제하는 차액은 다음과 같습니다.
+
+| 업그레이드 비용 | Period |
+|:--------:|:-------:|
+| KRW 350,000 | **2022년 4월 30일**까지 |
+| KRW 450,000 | **2022년 5월 1일**부터 **5월 20일**까지 |
+| 불가능       | **2022년 5월 20일**까지 |
