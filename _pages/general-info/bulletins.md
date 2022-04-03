@@ -46,9 +46,9 @@ order: 8
 
 </style>
 
-## [LATEST] 3rd Bulletin (10 Feb. 2022) 
+## [LATEST]3rd Bulletin (10 Feb. 2022) 
 
-Show *pdf* in new tab (553KB): 
+Show *pdf* in new tab (742KB): 
 <a href="https://sqm2022.pusan.ac.kr/assets/files/bulletins/SQM2022-Extra_Bulletin-03Apr2022.pdf" target="_blank">PNU Server</a>, 
 <a href="https://sqm2022.web.cern.ch/assets/files/bulletins/SQM2022-Extra_Bulletin-03Apr2022.pdf" target="_blank">CERN Server</a>, 
 <a href="https://sqm2022.github.io/assets/files/bulletins/SQM2022-Extra_Bulletin-03Apr2022.pdf" target="_blank">GitHub Server</a>

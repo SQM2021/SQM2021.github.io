@@ -95,7 +95,7 @@ Following are the definitions of **“Fully-Vaccinated Person”**.
 
 After entering Korea, you should have a PCR test within 1 days after entry<sub>(if not, the exemption will expire.)</sub>. It should be paid by each passenger.
 
-**[2022.04.02]** The exemption of quarantine(by full vaccination)cannot be applied if you stayed or visited (except transit) **Ukraine**, **Vietnam**, **Myanmar** in the last 14 days before entering Korea.
+**[2022.04.01]** The exemption of quarantine(by full vaccination)cannot be applied if you stayed or visited (except transit) **Ukraine**, **Vietnam**, **Myanmar** in the last 14 days before entering Korea.
 
 **WHO EUL(Emergency Use Listing) about Vaccine for COVID-19**  
 [https://covid19.trackvaccines.org/agency/who/](https://covid19.trackvaccines.org/agency/who/){:target="_blank"}
