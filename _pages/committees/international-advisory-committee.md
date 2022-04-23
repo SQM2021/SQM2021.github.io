@@ -42,7 +42,6 @@ order: 1
 | Azwinndini Muronga        | Nelson Mandela University                                            | South Africa |
 | Grazyna Odyniec           | LBL                                                                  | USA          |
 | Dennis V. Perepelitsa     | University of Colorado                                               | USA          |
-| Johann Rafelski           | University of Arizona                                                | USA          |
 | Claudia Ratti             | University of Houston                                                | USA          |
 | Lijuan Ruan               | BNL                                                                  | USA          |
 | Chihiro Sasaki            | University of Wrocław                                                | Poland       |
@@ -55,6 +54,9 @@ order: 1
 | Zhangbu Xu                | BNL                                                                  | USA          |
 | Pengfei Zhuang            | Tsinghua University                                                  | China        |
 
+
+{% comment %}
+| Johann Rafelski           | University of Arizona                                                | USA          |
 <!-- | Hannah Elfner             | GSI                                                                  | Germany      | -->
 <!-- |                           | FIAS(Frankfurt Institute for Advanced Studies)                       | Germany      | -->
 <!-- | Adam Kiesel               | Warsaw University of Technology                                      | Poland       | -->
@@ -62,3 +64,4 @@ order: 1
 <!-- | Jacquelyn Noronha-Hostler | UIUC (University of Illinois Urbana-Champaign)                       | USA          | -->
 <!-- | Laura Sagunski            | Goethe University Frankfurt                                          | Germany      | -->
 <!-- | Orlando Villalobos        | Baillie University of Birmingham                                     | UK           | -->
+{% endcomment %}

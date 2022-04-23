@@ -1,7 +1,7 @@
 ---
 layout: banner
 title: "Public Lecture"
-order: 6
+order: 7
 hide: false
 ---
 

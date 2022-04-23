@@ -1,6 +1,7 @@
 ---
-layout: poster
+layout: banner
 title: "IUPAP Policy Statement"
+order: c
 ---
 
 > ***SQM 2022 adheres to the IUPAP policy statements***
@@ -11,4 +12,4 @@ title: "IUPAP Policy Statement"
 
 The IUPAP poster pdf file can be downloaded [here](/assets/files/IUPAP-poster_2018-19.pdf)
 
-![IUPAP Poster](/assets/img/IUPAP-poster_2018-19.png)
+![IUPAP Poster](/assets/img/IUPAP-poster_2018-19.png){: style="width:100%"}
