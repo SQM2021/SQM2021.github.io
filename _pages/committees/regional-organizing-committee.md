@@ -23,7 +23,7 @@ order: 2
 | Lokesh Kumar              | Panjab University                                                    | India   |
 | Feng Liu                  | Central China Normal University                                      | China   |
 | Bedanga Mohanty           | National Institute of Science Education and Research                 | India   |
-| Subrat Pal                | Tata Institute of Fundamental Research                               | India   |
+| Subrata Pal               | Tata Institute of Fundamental Research                               | India   |
 | Victor Roy                | National Institute of Science Education and Research                 | India   |
 | Kenta Shigaki             | Hiroshima University                                                 | Japan   |
 | Qun Wang                  | University of Science and Technology of China                        | China   |

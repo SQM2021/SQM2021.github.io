@@ -191,8 +191,8 @@ A special offer can be given when you reserve with (1) a dedicated web-based res
 
 These are important dates related to applying for the offer.
 
-|                       | Important Date |
-|:---------------------:|:--------------:|
-| Start Applying Offer  | 10 Feb 2022    | 
-| Finish Applying Offer | 10 May 2022    | 
+|                       | Important Date |    |
+|:---------------------:|:--------------:|:--:|
+| Start Applying Offer  | 10 Feb 2022    |    |
+| Finish Applying Offer | 20 May 2022    | (Extended) |
 | **First-Order, First-Serve basis** |      |

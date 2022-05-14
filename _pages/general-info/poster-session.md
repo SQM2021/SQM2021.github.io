@@ -5,6 +5,6 @@ order: 6
 hide: false
 ---
 
-Poster Session will be held via Metaverse Session.
+Poster Session will be held via Metaverse System.
 
-How to participating the session will be posted later.
+How to participate in the session will be posted later.

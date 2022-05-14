@@ -41,6 +41,9 @@ a.button {
 }
 </style>
 
+To be updated
+
+{% comment %}
 한국어 정보는 <a class="button" href="#infoKorean">여기를 클릭하세요</a>
 
 > Dr. Strangers: Science is FUN
@@ -73,3 +76,5 @@ a.button {
 
 *1* FIAS : Frankfurt Institute for Advanced Studies (독일 프랑크푸르트 고등연구원)  
 *2* GSI : GSI Helmholtz Centre for Heavy Ion Research (독일 GSI 헬름홀츠 중이온연구소)
+
+ {% endcomment %}

@@ -20,7 +20,7 @@ order: 3
 | Beomkyu Kim               | Sungkyunkwan University      |                |
 | Eun-Joo Kim               | Jeonbuk National University  |                |
 | Yongsun Kim               | Sejong University            |                |
-| Youngman Kim              | Institute of Basic Science   |                |
+| Youngman Kim              | Institute for Basic Science  |                |
 | MinJung Kweon             | Inha University              |                |
 | Chang-Hwan Lee            | Pusan National University    |                |
 | Su Houng Lee              | Yonsei University            | (Co-Chair)     |

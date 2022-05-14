@@ -54,7 +54,12 @@ Registration will open on **10 February 2022** and will continue through **20 Ma
 | On-site Registration           | Not Available     |                  |                               |
   
 <br>
-The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*. *An Additional including welcome reception and banquet* for an accompanying person is EUR 110. The registration fee can be paid on the registration page with **PayPal**. For domestic participants, a **bank transfer is the only valid option**. [Go to "Payment of Domestic Participants"](#banktransfer)
+The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *conference materials*.
+
+*An Additional including welcome reception and banquet* for an accompanying person is EUR 120. In case of Kids, You can choose the number of meals. The price for a Kids Menu is EUR 60.
+You can see the full meal in Kids Menu [here](/assets/files/sqm2022-banquet-kids.pdf){:target="_blank"}.
+
+The registration fee can be paid on the registration page with **PayPal**. For domestic participants, a **bank transfer is the only valid option**. [Go to "Payment of Domestic Participants"](#banktransfer)
 
 
 ## Upgrade Option
@@ -107,6 +112,7 @@ The fee includes *lunch*, *coffee break*, *welcome reception*, *banquet*, and *c
 | 일반 등록       | KRW 650,000       | KRW 200,000      | **2022년 5월 20일까지** indico 요청 <br> 5월 27일까지 입금가능 |
 | 현장 등록       | 불가능              |                  |                               |
 | 동반인 연회 참석비 | KRW 150,000      |                  |                               |
+| 동반인 연회 참석비<br>아동용 | KRW 65,000      |                  |                               |
 
 
 온라인 참여 등록을 등록비 지불까지 완료한 후 이를 오프라인 참여 등록으로 변경할 시 결제하는 차액은 다음과 같습니다.
