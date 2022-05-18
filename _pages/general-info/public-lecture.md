@@ -41,7 +41,55 @@ a.button {
 }
 </style>
 
-To be updated
+한국어 정보는 <a class="button" href="#infoKorean">여기를 클릭하세요</a>
+
+<b style="color:red">
+Lecture will be served in KOREAN language only, without official interpretation/traslation service to other language(English, etc.).
+</b>
+
+<a class="button" target="blank_" href="https://indico.kps.or.kr/e/sqm2022-public">External Page for Registration [Click]</a>
+
+| Title | We, in Universe, From Big-bang to Present |
+|:---------:|:------|
+| Time | 19h30-21h30 (2hrs.), 15 June 2022 |
+| Venue | 2F Grand ballroom, Paradise Hotel Busan <br> (296, Haeundaehaebyun-ro, Haeundae-gu, Busan, Republic of Korea) |
+| Lecturer | Prof. Dr. In-Kwon Yoo (Dept. of Physics, Pusan National University) <br> Prof. Dr. Chang-Hwan Lee (Dept. of Physics, Pusan National University) |
+| Chair    | Jinhee Yoon (Dept. of Physics, Pusan National University) |
+| Language | Korean <br> (no official interpretation or translation to other language(i.e. English, etc.))
+
+
+* Because of the hygiene measure and the limitation of seats, please register at this [webpage](https://indico.kps.or.kr/e/sqm2022-public){:target="blank_"}.
+  * On-site registration may not be available if there's not enough seat remained.
+* Group Registration (more than 10 people) [sqm2022@hipex.phys.pusan.ac.kr](mailto:sqm2022@hipex.phys.pusan.ac.kr)
+  * Please inform us following information
+    * Representative(of registration)'s Name, E-mail, Mobile Number, Affiliation, Position (if you want; ex. teacher)
+    * Each Participant's Name, E-mail, Affiliation
+
+***You can request a certificate of participation for this lecture at the help-desk on site.***
+
+-----
+
+## 한국어 (Information in Korean) {#infoKorean}
+
+<a class="button" target="blank_" href="https://indico.kps.or.kr/e/sqm2022-public">등록 및 안내 페이지 [클릭]</a>
+
+| 주제 | 빅뱅 우주 속의 우리 |
+|:---:|:---------------|
+| 일시 | 2022년 6월 15일 7시 30분 - 9시 30분(2시간) |
+| 장소 | 부산 해운대 파라다이스호텔 본관 2층 그랜드볼룸 <br> (부산광역시 해운대구 해운대해변로 296) |
+| 연사 | 유인권교수 (부산대학교 물리학과) <br> 이창환교수 (부산대학교 물리학과) |
+| 진행 | 윤진희교수 (인하대학교 물리학과) |
+| 언어 | 한국어 (타 언어 통역 및 번역 미제공) |
+
+* 좌석 수 제한과 코로나19 방역 조치로, 아래 "참석자 신청"을 통한 사전 참석 등록을 부탁드립니다.
+  * 현장 등록은 예약인원 우선 입장 후 예약 후 미참석 등에 의한 잔여 좌석수에 한해 가능할 예정입니다.
+* 단체 등록) [sqm2022@hipex.phys.pusan.ac.kr](mailto:sqm2022@hipex.phys.pusan.ac.kr) (10명 이상)
+  * 다음 정보를 전달해주십시오.
+    * 등록 대표자의 이름, 이메일, 소속, 전화번호 (필요시 직위 또한 기재 가능; 인솔 교사 등)
+    * 각 참가자의 이름, 소속, 이메일
+  * 접수 확인을 위해 전화, 이메일 확인이 있을 수 있습니다.
+
+***본 행사는 참석 확인 증빙을 위한 참석 확인서를 발급합니다.***
 
 {% comment %}
 한국어 정보는 <a class="button" href="#infoKorean">여기를 클릭하세요</a>
