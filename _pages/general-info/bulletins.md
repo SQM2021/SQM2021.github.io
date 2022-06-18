@@ -57,10 +57,20 @@ th, td {
 </style>
 
 {% comment %}
-The header photos of bulletins are from [visitbusan.net](https://visitbusan.net){:target="_blank"} ([Go to copyright information](#copyright))
+The header photos of bulletins are from [visitbusan.net](https://visitbusan.net){:target="_blank"} ([Go to copyright information](#copyright)) 
 {% endcomment %}
 
-## [LATEST] 3rd Bulletin (03 Apr. 2022) 
+## [LATEST] 4th Bulletin, Final Announcement (03 Apr. 2022)
+
+Show *pdf* in new tab (991KB): 
+<a href="https://sqm2022.pusan.ac.kr/assets/files/bulletins/SQM2022-Final_Bulletin-07Jun2022.pdf" target="_blank">PNU Server</a>,
+<a href="https://sqm2022.web.cern.ch/assets/files/bulletins/SQM2022-Final_Bulletin-07Jun2022.pdf" target="_blank">CERN Server</a>
+
+<div class="container" style="width:65%; margin-left:0;">
+<a href="/assets/files/bulletins/SQM2022-Final_Bulletin-07Jun2022.pdf" target="blank_"> <img src="/assets/files/bulletins/img/set-07jun2022/SQM2022-bulletin-07jun2022_p0.png" style="width:100%;" alt="Click here to download 3rd bulletin"> </a>
+</div>
+
+## 3rd Bulletin (03 Apr. 2022) 
 
 Show *pdf* in new tab (991KB): 
 <a href="https://sqm2022.pusan.ac.kr/assets/files/bulletins/SQM2022-Extra_Bulletin-03Apr2022.pdf" target="_blank">PNU Server</a>, 
@@ -107,9 +117,10 @@ The properties are able to be downloaded in 'Visit Busan, [https://visitbusan.ne
 
 | Bulletin<br>Number | Year<br>Taken | Name of Photographer | Archiver | Title of Photo |
 |:----------------:|:----------:|:--------------------:|:--------------------:|:--------------------:|
-| 3 | 2022 | (주)써머트리<br>SummerTree Inc. | 부산광역시<br>Busan Metropolitan City | 매화 명소<br>Place of    Apricot Flower |
+| 4 | 2022 | (주)써머트리, 이음미디어(주)<br>SummerTree Inc., Ieum Media Inc. | 부산광역시, 부산관광공사<br>Busan Metropolitan City, Busan Travel Organization | 광안리해수욕장 <br> Gwangalli Beach |
+| 3 | 2022 | (주)써머트리<br>SummerTree Inc. | 부산광역시, 부산관광공사<br>Busan Metropolitan City, Busan Travel Organization | 매화명소<br>Place of Apricot Flower |
 | 2 | 2017 | 부산광역시<br>Busan Metropolitan City | 부산광역시<br>Busan Metropolitan City | 해월정<br>Haewoljeong |
-| 1 | 2019 | (주)써머트리, 이음미디어(주)<br>SummerTree Inc., Ieum Media Inc. | 부산광역시<br>Busan Metropolitan City| 해운대<br>Haeundae |
+| 1 | 2019 | (주)써머트리, 이음미디어(주)<br>SummerTree Inc., Ieum Media Inc. | 부산광역시, 부산관광공사<br>Busan Metropolitan City, Busan Travel Organization | 해운대<br>Haeundae |
 
 {% comment %}
 | 3 | 2019 | 부산관광공사<br>Busan Travel Organization | 부산관광공사<br>Busan Travel Organization | 달맞이 (Dalmajigil Road) |

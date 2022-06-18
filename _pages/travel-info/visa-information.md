@@ -35,6 +35,8 @@ Following is your available visa to apply. You can see the availability Visa Wai
 
 ## K-ETA (Participants with Visa Waiver Program)
 
-All visa waivers must complete K-ETA (Korea Electronic Travel Authorization) application on the following website at least 24 hours prior to boarding your flight. The K-ETA fee is KRW 10,000 (approx. USD 9-10).
+All visa waivers must complete K-ETA (Korea Electronic Travel Authorization) application on the following website at least 72 hours prior to boarding your flight. The K-ETA fee is KRW 10,000 (approx. USD 9-10).
+
+The K-ETA is valid in 2 years after approval.
 
 [Go to Website](https://www.k-eta.go.kr/portal/apply/index.do?locale=EN){:target="_blank"}
