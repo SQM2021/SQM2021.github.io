@@ -16,7 +16,7 @@ order: 4
 |:-------------|:--------------------------|
 | Bong-Hwi Lim | Pusan National University |
 | Minjae Kwon  | Pusan National University |
-| Jaehyuk Ryu  | Pusan National University |
+| Jaehyeok Ryu  | Pusan National University |
 | Haesom Sung  | Yonsei University         |
 | Seunghun Lee | Pukyung National University (PKNU) |
 | Dayoung Lee  | Pukyung National University (PKNU) |

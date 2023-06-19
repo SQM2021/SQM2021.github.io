@@ -1,5 +1,4 @@
-{% if site.covidbar %}
-
+{% if site.covidbar or site.archivebar %}
 <style>
     .notification-top-bar {
         /*position: fixed;*/
@@ -7,7 +6,6 @@
         left: 0;
         line-height: auto;
         width: 100%;
-        background: #1ABC9C;
         text-align: center;
         color: #FFFFFF;
         font-family: sans-serif;
@@ -26,7 +24,31 @@
         vertical-align: middle;
       }
 
-      .notification-top-bar a.button {
+      {% if site.archivebar %}
+      .purplebar a.button {
+        background: #FFF;
+        border: none;
+        color: #A13CDC;
+        padding: 0px 8px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 1em;
+        font-weight: bold;
+        margin: 0px 0px;
+        cursor: pointer;
+
+        border-radius: 3px;
+      }
+      .purplebar {
+        background: #A13CDC;
+      }
+      {% endif %}
+      {% if site.covidbar %}
+      .greenbar {
+        background: #1ABC9C;
+      }
+      .greenbar a.button {
         background: #FFF;
         border: none;
         color: #4CAF50;
@@ -40,12 +62,19 @@
         cursor: pointer;
 
         border-radius: 3px;
-        
       }
+      {% endif %}
 </style>
+{% endif %}
 
-<div class="notification-top-bar">
+{% if site.archivebar %}
+<div class="notification-top-bar purplebar">
+  <p><i style="font-size:1em" class="fa fa-exclamation-circle" aria-hidden="true" alt="notice"></i> <b>This website is archived mirror. </b>&nbsp;&nbsp;&nbsp;&nbsp;<small><a class="button" target="_blank;" href="https://sqm2022.pusan.ac.kr{{page.url}}">Go to Official Website</a></small></p>
+</div>
+{% endif %}
+
+{% if site.covidbar %}
+<div class="notification-top-bar greenbar">
   <p><i style="font-size:1em" class="fa fa-exclamation-circle" aria-hidden="true" alt="notice"></i> <b>Quarantine when entering Republic of Korea can be waived for full-vaccinated people by Q-Code after 1 April 2022</b>&nbsp;&nbsp;&nbsp;&nbsp;<small><a class="button" href="/pages/travel-info/covid19/">Go to Detail</a></small></p>
 </div>
-
 {% endif %}
